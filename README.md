@@ -18,6 +18,15 @@
   </a>
 </p>
 
+<p align="center">
+<br>
+<a href="https://linkedin.com/in/ashworks"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;
+<a href="https://ashworks.dev"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>&nbsp;
+<a href="mailto:ashworks1706@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"></a>&nbsp;
+<a href="https://github.com/ashworks1706"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
+
+
 <h3>🛠 &nbsp;Tech Stack</h3>
 <ul>
 <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
@@ -59,11 +68,3 @@
 
 <br>
 
-<h3>🤝🏻 &nbsp;Connect with Me</h3>
-<p align="center">
-<br>
-<a href="https://linkedin.com/in/ashworks"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;
-<a href="https://ashworks.dev"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>&nbsp;
-<a href="mailto:ashworks1706@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"></a>&nbsp;
-<a href="https://github.com/ashworks1706"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-</p>
