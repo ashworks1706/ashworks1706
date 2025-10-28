@@ -3,7 +3,7 @@
 <ul>
 <li>😄 Pronouns: He/Him/His</li>
 <li>🎓 I’m a Computer Science undergraduate at Arizona State University</li>
-<li>🔭 Currently working on: <b>SparkyAI</b> — a swarm of intelligent AI agents for student assistance</li>
+<li>🔭 Currently work as SWE @ ASU DT, Research Engineer @ RISE LAB ASU</li>
 <li>🧠 My focus areas: Agentic Systems, Reinforcement Learning, and Retrieval-Augmented Generation (RAG)</li>
 <li>💬 Ask me about: LLMs, RAG architectures, hackathons, or startup building</li>
 <li>🤝 I love collaborating on: AI research, agentic systems, and high-impact hackathon ideas</li>
@@ -98,9 +98,3 @@
 
 <br>
 
-<p align="center">
-    <img align="center" alt="visitors" src="https://gpvc.arturio.dev/ashworks1706">
-</p>
-<hr>
-<p>Credit: <a href="https://github.com/ashworks1706">Aishwarya (Ash) Srivastava</a></p>
-<p>Last edited on: 10/28/2025</p>
