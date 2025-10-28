@@ -1,5 +1,4 @@
 
-<h3>👋 &nbsp;About Me</h3>
 <ul>
 <li>🎓 CS Undergraduate @ Arizona State University</li>
 <li>🔭 SWE @ ASU Decision Theatre | Research Engineer @ RISE Lab</li>
