@@ -1,5 +1,3 @@
-<p><img src="https://raw.githubusercontent.com/ashworks1706/ashworks1706/main/assets/readmebox.svg" alt="Welcome Banner"></p>
-<img align="left" height="260px" alt="Ash Srivastava" src="pic.png">
 
 <h3>👋 &nbsp;About Me</h3>
 <ul>
@@ -81,9 +79,3 @@
 <a href="mailto:ashworks1706@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"></a>&nbsp;
 <a href="https://github.com/ashworks1706"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
-
-<br>
-
-<hr>
-<p>📄 <a href="https://ashworks.dev/resume.pdf">View My Resume</a></p>
-<p>Credit: <a href="https://github.com/ashworks1706">Aishwarya (Ash) Srivastava</a> | Last updated: Oct 2025</p>
