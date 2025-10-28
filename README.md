@@ -1,15 +1,13 @@
 
 <h3>👋 &nbsp;About Me</h3>
 <ul>
-<li>😄 Pronouns: He/Him/His</li>
 <li>🎓 I’m a Computer Science undergraduate at Arizona State University</li>
 <li>🔭 Currently work as SWE @ ASU DT, Research Engineer @ RISE LAB ASU</li>
 <li>🧠 My focus areas: Agentic Systems, Reinforcement Learning, and Retrieval-Augmented Generation (RAG)</li>
 <li>💬 Ask me about: LLMs, RAG architectures, hackathons, or startup building</li>
 <li>🤝 I love collaborating on: AI research, agentic systems, and high-impact hackathon ideas</li>
 <li>🌍 Involved in: ASU AI Society (Director) & Software Developers Association (Officer)</li>
-<li>💜 Interests: AI, philosophy, productivity design, robotics, and hackathon culture</li>
-<li>⚡ Fun fact: I’ve won 7+ hackathons globally and love building AI products that feel alive</li>
+<li>⚡ Fun fact: I was suspended from my highschool for coding too much</li>
 </ul>
 <br>
 
