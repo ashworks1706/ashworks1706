@@ -12,13 +12,6 @@
 
 
 <p align="center">
-  <a href="https://github.com/ashworks1706">
-    <img height="250px" src="https://github-readme-stats.vercel.app/api?username=ashworks1706&theme=cobalt&show_icons=true&count_private=true">
-    <img height="250px" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
-  </a>
-</p>
-
-<p align="center">
 <br>
 <a href="https://linkedin.com/in/ashworks"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;
 <a href="https://ashworks.dev"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>&nbsp;
