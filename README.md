@@ -47,6 +47,8 @@
 <h2>🧩 Featured Projects</h2>
 
 <ul>
+<li><a href="https://github.com/ashworks1706/Kaelum"><b>Kaelum</b></a> — All in One Reasoning MCP layer for LLMs </li>
+<li><a href="https://github.com/ashworks1706/ATeX"><b>Adaptive Tutor Evaluation (ATeX)</b></a> —  Adaptive tutoring agents on personalized learning in a controlled RAG + RL environment</li>
 <li><a href="https://github.com/ashworks1706/SparkyAI"><b>SparkyAI</b></a> — Swarm of AI agents assisting students via RAG & LangChain (ASU-Supported)</li>
 <li><a href="https://github.com/ashworks1706/agents-rag-from-scratch"><b>Agents & RAG from Scratch</b></a> — Foundations of agentic collaboration and retrieval architectures</li>
 <li><a href="https://github.com/ashworks1706/benchmind"><b>BenchMind</b></a> — AI agent benchmarking evaluation + visualization (CalHacks S12 project)</li>
