@@ -61,12 +61,15 @@
 <li><a href="https://github.com/ashworks1706/Carbon-Emission-Detector"><b>Carbon Emission Detector</b></a> — Real-time CO₂ estimation from vehicle detection</li>
 </ul>
 
+<h2>🔬 Research Publications</h2>
+<ul>
+<li><a href="https://github.com/ashworks1706/AI-Solar-Panel"><b>Risk-Sensitive Forward Modeling for Delayed Teleoperation Using Cumulative Prospect Theory</b></a> — In Progress</li>
+</ul>
+
 <h2>🌍 Open-Source Contributions</h2>
 <ul>
 <li><b>Google Gemini SDK</b> — Added asynchronous functions & system-level optimizations adopted in <b>150+ enterprise deployments</b>.</li>
 <li><b>Intel Retail AI Suite</b> — Developed LiDAR-based theft-detection module using OpenCV & Roboflow, reducing shrinkage by <b>25%</b> in pilot tests.</li>
-<!-- <li><b>LangChain Extensions</b> — Contributed to agent orchestration layer, enhancing memory streaming for multi-tool systems.</li> -->
-<!-- <li><b>Open-Source RAG Experiments</b> — Maintained repositories analyzing retrieval consistency & evaluation frameworks using RAGAS and ARES.</li> -->
 </ul>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
