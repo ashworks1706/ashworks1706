@@ -1,5 +1,4 @@
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <ul>
 <li>🎓 CS Undergraduate @ Arizona State University</li>
 <li>🔭 SWE @ ASU Decision Theatre | Research Engineer @ RISE Lab</li>
@@ -69,7 +68,6 @@
 <!-- <li><b>LangChain Extensions</b> — Contributed to agent orchestration layer, enhancing memory streaming for multi-tool systems.</li> -->
 <!-- <li><b>Open-Source RAG Experiments</b> — Maintained repositories analyzing retrieval consistency & evaluation frameworks using RAGAS and ARES.</li> -->
 </ul>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-
-<br>
 
