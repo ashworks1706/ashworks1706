@@ -48,15 +48,15 @@
 
 <ul>
 <li><a href="https://github.com/ashworks1706/Kaelum"><b>Kaelum</b></a> — All in One Reasoning MCP layer for LLMs </li>
-<li><a href="https://github.com/ashworks1706/ATeX"><b>Adaptive Tutor Evaluation (ATeX)</b></a> —  Testbed for benchmarking agents on adaptive feedback efficiency</li>
+<li><a href="https://github.com/ashworks1706/ATeX"><b>Adaptive Tutor Evaluation (ATeX)</b></a> —  Testbed for benchmarking agents on adaptive feedback efficiency (AgentBeats)</li>
 <li><a href="https://github.com/ashworks1706/SparkyAI"><b>SparkyAI</b></a> — Swarm of AI agents assisting students via RAG & LangChain (ASU-Supported)</li>
-<li><a href="https://github.com/ashworks1706/agents-rag-from-scratch"><b>Agents & RAG from Scratch</b></a> — Foundations of agentic collaboration and retrieval architectures</li>
+<li><a href="https://github.com/ashworks1706/agents-rag-from-scratch"><b>Agents & RAG from Scratch</b></a> — Foundations of agentic collaboration and retrieval architectures (AIS Workshop)</li>
 <li><a href="https://github.com/ashworks1706/benchmind"><b>BenchMind</b></a> — AI agent benchmarking evaluation + visualization (CalHacks S12 project)</li>
-<li><a href="https://github.com/ashworks1706/RLHF-from-scratch"><b>RLHF from Scratch</b></a> — PPO-based feedback optimization for LLMs</li>
-<li><a href="https://github.com/ashworks1706/LLM-from-scratch"><b>LLM from Scratch</b></a> — Transformer-based LLM architecture built from fundamentals</li>
+<li><a href="https://github.com/ashworks1706/RLHF-from-scratch"><b>RLHF from Scratch</b></a> — PPO-based feedback optimization for LLMs (AIS Workshop)</li>
+<li><a href="https://github.com/ashworks1706/LLM-from-scratch"><b>LLM from Scratch</b></a> — Transformer-based LLM architecture built from fundamentals (AIS Workshop)</li>
 <li><a href="https://github.com/ashworks1706/Decoy"><b>Decoy</b></a> — RAG-powered cyber intelligence pipeline (2x Google Hackathon Winner)</li>
-<li><a href="https://github.com/ashworks1706/Eve"><b>Eve</b></a> — Gemini-powered robotic arm for multimodal equipment handling</li>
-<li><a href="https://github.com/ashworks1706/Lux"><b>Lux</b></a> — Agentic AI for real-time fashion recommendations</li>
+<li><a href="https://github.com/ashworks1706/Eve"><b>Eve</b></a> — Gemini-powered robotic arm for multimodal equipment handling (PI Automation)</li>
+<li><a href="https://github.com/ashworks1706/Lux"><b>Lux</b></a> — Agentic AI for real-time fashion recommendations (Devhacks)</li>
 <li><a href="https://github.com/ashworks1706/AI-Solar-Panel"><b>AI Solar Panel</b></a> — YOLOv8-based adaptive solar tracking system</li>
 <li><a href="https://github.com/ashworks1706/Carbon-Emission-Detector"><b>Carbon Emission Detector</b></a> — Real-time CO₂ estimation from vehicle detection</li>
 </ul>
