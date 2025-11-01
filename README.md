@@ -46,7 +46,7 @@
 <h2>🧩 Featured Projects</h2>
 
 <ul>
-<li><a href="https://github.com/ashworks1706/Kaelum"><b>Kaelum</b></a> — All in One Reasoning MCP layer for LLMs </li>
+<li><a href="https://github.com/ashworks1706/Kaelum"><b>Kaelum</b></a> — All in One Reasoning MCP layer for lightweight LLMs </li>
 <li><a href="https://github.com/ashworks1706/ATeX"><b>Adaptive Teaching Evaluation (ATeX)</b></a> —  Testbed simulation on bench-marking agents on adaptive learning efficiency</li>
 <li><a href="https://github.com/theaisocietyasu"><b>Summit</b></a> —  Productivity agent for automating team tasks via discord, notion & google calendar (AIS)</li>
 <li><a href="https://github.com/theaisocietyasu"><b>Memboard</b></a> —  Shared vector DB for powering worker AI agents with real time dashboard (AIS)</li>
