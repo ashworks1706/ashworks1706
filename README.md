@@ -68,7 +68,9 @@
 <h2>🔬 Research Publications</h2>
 <ul>
 <li><a href="https://forge.engineering.asu.edu/participant/srivastava-ash/"><b>Risk-Sensitive Forward Modeling for Delayed Teleoperation Using Cumulative Prospect Theory</b></a>
-- CPT-based VAE model blending human risk perception for teleoperation safety under communication delay</li>
+- CPT-based VAE model blending human risk perception for teleoperation safety under communication delay (inprog)</li>
+<li><a href="https://forge.engineering.asu.edu/participant/srivastava-ash/"><b>Adaptive Multi modal Retrieval-Augmented Generation for Personalized Learning in Higher Education </b></a>
+- Reinforcement-driven RAG framework integrating Bayesian latent-state modeling for adaptive, multimodal personalization in education (inprog)</li></li>
 </ul>
 
 <h2>🌍 Open-Source Contributions</h2>
