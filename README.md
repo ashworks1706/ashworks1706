@@ -2,7 +2,7 @@
 <ul>
 <li>🎓 CS Undergraduate @ Arizona State University</li>
 <li>🔭 SWE @ ASU Decision Theatre | Research Engineer @ RISE Lab</li>
-<li>🧠 Focused on Agentic Systems, Reinforcement Learning, and RAG pipelines</li>
+<li>🧠 Experienced in building Internal Software Systems, Agentic Systems, and ML pipelines</li>
 <li>📚 Actively research LLM & RAG architectures</li>
 <li>🤝 Love collaborating on AI research, systems design, and hackathon projects</li>
 <li>🌍 Director @ ASU AI Society | Officer @ Software Developers Association</li>
