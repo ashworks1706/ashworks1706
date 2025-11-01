@@ -67,7 +67,8 @@
 
 <h2>🔬 Research Publications</h2>
 <ul>
-<li><a href="https://github.com/ashworks1706/AI-Solar-Panel"><b>Risk-Sensitive Forward Modeling for Delayed Teleoperation Using Cumulative Prospect Theory</b></a> — In Progress</li>
+<li><a href="https://forge.engineering.asu.edu/participant/srivastava-ash/"><b>Risk-Sensitive Forward Modeling for Delayed Teleoperation Using Cumulative Prospect Theory</b></a>
+- CPT-based VAE model blending human risk perception for teleoperation safety under communication delay</li>
 </ul>
 
 <h2>🌍 Open-Source Contributions</h2>
