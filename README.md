@@ -4,7 +4,6 @@
 <li>🔭 SWE @ ASU Decision Theatre | Research Engineer @ RISE Lab</li>
 <li>🧠 Experienced in building Internal Software Systems, Agentic Systems, and ML pipelines</li>
 <li>📚 Actively research LLM & RAG architectures</li>
-<li>🤝 Love collaborating on AI research, systems design, and hackathon projects</li>
 <li>🌍 Director @ ASU AI Society | Officer @ Software Developers Association</li>
 <li>⚡ Fun fact: Got suspended in high school for coding too much 😄</li>
 </ul>
