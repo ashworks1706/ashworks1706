@@ -63,7 +63,7 @@
 <li><a href="https://github.com/ashworks1706/Eve"><b>Eve</b></a> — Gemini-powered robotic arm for multimodal equipment handling (PI Automation)</li>
 <li><a href="https://github.com/ashworks1706/Lux"><b>Lux</b></a> — Agentic AI for real-time fashion recommendations (Devhacks)</li>
 <li><a href="https://github.com/ashworks1706/AI-Solar-Panel"><b>AI Solar Panel</b></a> — YOLOv8-based adaptive solar tracking system</li>
-<li><a href="https://github.com/ashworks1706/Carbon-Emission-Detector"><b>Carbon Emission Detector</b></a> — Real-time CO₂ estimation from vehicle detection</li>
+<li><a href="https://github.com/ashworks1706/Carbon-Emission-Detector"><b>Carbon Emission Detector</b></a> — Real-time CO₂ estimation from vehicle detection wiht TFlite phone inference</li>
 <li><a href="https://csya-edu.org/"><b>Educational Website</b></a> — Headless LMS for managing course content and payment gateways (CSYA)</li>
 </ul>
 
