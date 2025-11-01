@@ -49,6 +49,10 @@
 <ul>
 <li><a href="https://github.com/ashworks1706/Kaelum"><b>Kaelum</b></a> — All in One Reasoning MCP layer for LLMs </li>
 <li><a href="https://github.com/ashworks1706/ATeX"><b>Adaptive Teaching Evaluation (ATeX)</b></a> —  Testbed simulation on bench-marking agents on adaptive learning efficiency</li>
+<li><a href="https://github.com/theaisocietyasu"><b>Summit</b></a> —  Productivity agent for automating team tasks via discord, notion & google calendar (AIS)</li>
+<li><a href="https://github.com/theaisocietyasu"><b>Memboard</b></a> —  Shared vector DB for powering worker AI agents with real time dashboard (AIS)</li>
+<li><a href="https://github.com/theaisocietyasu"><b>AI Pedia</b></a> —  Headless CMS for managing AIS Wikis and resources (AIS)</li>
+<li><a href="https://github.com/theaisocietyasu"><b>Godfather</b></a> —  Admin dashboard for monitoring realtime gpu powered runpod services (AIS Internal)</li>
 <li><a href="https://github.com/ashworks1706/SparkyAI"><b>SparkyAI</b></a> — Swarm of AI agents assisting students via RAG & LangChain (ASU-Supported)</li>
 <li><a href="https://github.com/ashworks1706/agents-rag-from-scratch"><b>Agents & RAG from Scratch</b></a> — Foundations of agentic collaboration and retrieval architectures (AIS Workshop)</li>
 <li><a href="https://github.com/ashworks1706/benchmind"><b>BenchMind</b></a> — AI agent benchmarking evaluation + visualization (CalHacks S12 project)</li>
