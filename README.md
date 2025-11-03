@@ -46,7 +46,7 @@
 <h2>🧩 Featured Projects</h2>
 
 <ul>
-<li><a href="https://github.com/ashworks1706/Meg"><b>Meg</b></a> —  selfhosted smollVlm desktop assistant for automating productivity across notion, google calendar, whatsapp & discord</li>
+<li><a href="https://github.com/ashworks1706/Meg"><b>Meg</b></a> —  Self hosted SmolLM desktop assistant for automating productivity across notion, google calendar, whatsapp & discord</li>
 <li><a href="https://github.com/ashworks1706/DStockStrat"><b>DStockStrat</b></a> —  PPO execution agent optimizing trade timing and slippage in stochastic markets with DStocks</li>
 <li><a href="https://github.com/ashworks1706/DStocks"><b>DStocks</b></a> —  Multi-agent market simulator using DQN to model human–AI trading with live order books on discord</li>
 <li><a href="https://github.com/ashworks1706/Kaelum"><b>Kaelum</b></a> — All in One Reasoning MCP layer for lightweight LLMs </li>
