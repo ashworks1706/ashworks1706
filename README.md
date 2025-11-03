@@ -46,6 +46,7 @@
 <h2>🧩 Featured Projects</h2>
 
 <ul>
+<li><a href="https://github.com/ashworks1706/Pirmid"><b>Pirmid</b></a> — Neuro-symbolic vector DB solving retrieval ambiguity with a two-stage query engine filtered on symbolic facts before neural ranking</li>
 <li><a href="https://github.com/ashworks1706/Meg"><b>Meg</b></a> —  GraphRAG SmolLM desktop assistant for automating productivity across notion, google calendar, whatsapp & discord</li>
 <li><a href="https://github.com/ashworks1706/DStockStrat"><b>DStockStrat</b></a> —  PPO execution agent optimizing trade timing and slippage in stochastic markets with DStocks</li>
 <li><a href="https://github.com/ashworks1706/DStocks"><b>DStocks</b></a> —  Multi-agent market simulator using DQN to model human–AI trading with live order books on discord</li>
