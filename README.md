@@ -58,10 +58,10 @@
 <li><a href="https://github.com/theaisocietyasu"><b>Godfather</b></a> —  Admin dashboard for monitoring realtime gpu powered runpod services (AIS Internal)</li>
 <li><a href="https://github.com/ashworks1706/SparkyAI"><b>SparkyAI</b></a> — Swarm of CRAG AI agents assisting students (ASU-Supported)</li>
 <li><a href="https://github.com/ashworks1706/agents-rag-from-scratch"><b>Agents & RAG from Scratch</b></a> — Foundations of agentic collaboration and retrieval architectures (AIS Workshop)</li>
-<li><a href="https://github.com/ashworks1706/benchmind"><b>BenchMind</b></a> — AI agent benchmarking evaluation + visualization (CalHacks S12 project)</li>
+<li><a href="https://devpost.com/software/benchmind"><b>BenchMind</b></a> — AI agent benchmarking evaluation + visualization (CalHacks S12 project)</li>
 <li><a href="https://github.com/ashworks1706/RLHF-from-scratch"><b>RLHF from Scratch</b></a> — PPO-based feedback optimization for LLMs (AIS Workshop)</li>
 <li><a href="https://github.com/ashworks1706/LLM-from-scratch"><b>LLM from Scratch</b></a> — Transformer-based LLM architecture built from fundamentals (AIS Workshop)</li>
-<li><a href="https://github.com/ashworks1706/Decoy"><b>Decoy</b></a> — RAG-powered cyber intelligence pipeline (2x Google Hackathon Winner)</li>
+<li><a href="https://devpost.com/software/decoy-j0hsmg"><b>Decoy</b></a> — RAG-powered cyber intelligence pipeline (2x Google Hackathon Winner)</li>
 <li><a href="https://sportsitters.com/"><b>SportSitters</b></a> — Fullstack Chat, Voice/Video call, Booking Management iOS/android App with Admin CSM realtime Dashboard</li>
 <li><a href="https://github.com/asusoda/platform"><b>Platform</b></a> — application integration for notion and google calendar API with faster lighthouse performance (SoDA)</li>
 <li><a href="https://github.com/ashworks1706/Eve"><b>Eve</b></a> — Gemini-powered robotic arm for multimodal equipment handling (PI Automation)</li>
