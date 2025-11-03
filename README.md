@@ -46,7 +46,7 @@
 <h2>🧩 Featured Projects</h2>
 
 <ul>
-<li><a href="https://github.com/ashworks1706/Meg"><b>Meg</b></a> —  Self hosted SmolLM desktop assistant for automating productivity across notion, google calendar, whatsapp & discord</li>
+<li><a href="https://github.com/ashworks1706/Meg"><b>Meg</b></a> —  GraphRAG SmolLM desktop assistant for automating productivity across notion, google calendar, whatsapp & discord</li>
 <li><a href="https://github.com/ashworks1706/DStockStrat"><b>DStockStrat</b></a> —  PPO execution agent optimizing trade timing and slippage in stochastic markets with DStocks</li>
 <li><a href="https://github.com/ashworks1706/DStocks"><b>DStocks</b></a> —  Multi-agent market simulator using DQN to model human–AI trading with live order books on discord</li>
 <li><a href="https://github.com/ashworks1706/Kaelum"><b>Kaelum</b></a> — All in One Reasoning MCP layer for lightweight LLMs </li>
@@ -55,7 +55,7 @@
 <li><a href="https://github.com/theaisocietyasu"><b>Memboard</b></a> —  Protected DB & Utility MCP for powering Multi AI worker agents with real time dashboard (AIS)</li>
 <li><a href="https://github.com/theaisocietyasu"><b>AI Pedia</b></a> —  Headless CMS for managing AIS Wikis and resources (AIS)</li>
 <li><a href="https://github.com/theaisocietyasu"><b>Godfather</b></a> —  Admin dashboard for monitoring realtime gpu powered runpod services (AIS Internal)</li>
-<li><a href="https://github.com/ashworks1706/SparkyAI"><b>SparkyAI</b></a> — Swarm of AI agents assisting students via RAG & LangChain (ASU-Supported)</li>
+<li><a href="https://github.com/ashworks1706/SparkyAI"><b>SparkyAI</b></a> — Swarm of CRAG AI agents assisting students (ASU-Supported)</li>
 <li><a href="https://github.com/ashworks1706/agents-rag-from-scratch"><b>Agents & RAG from Scratch</b></a> — Foundations of agentic collaboration and retrieval architectures (AIS Workshop)</li>
 <li><a href="https://github.com/ashworks1706/benchmind"><b>BenchMind</b></a> — AI agent benchmarking evaluation + visualization (CalHacks S12 project)</li>
 <li><a href="https://github.com/ashworks1706/RLHF-from-scratch"><b>RLHF from Scratch</b></a> — PPO-based feedback optimization for LLMs (AIS Workshop)</li>
