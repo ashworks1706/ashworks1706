@@ -68,6 +68,7 @@
 <li><a href="https://github.com/ashworks1706/AI-Solar-Panel"><b>AI Solar Panel</b></a> — YOLOv8-based adaptive solar tracking system</li>
 <li><a href="https://github.com/ashworks1706/Carbon-Emission-Detector"><b>Carbon Emission Detector</b></a> — Real-time CO₂ estimation from vehicle detection wiht TFlite phone inference</li>
 <li><a href="https://csya-edu.org/"><b>Educational Website</b></a> — Headless LMS for managing course content and payment gateways (CSYA)</li>
+<li><a href="https://github.com/ashworks1706/RL-Maze"><b>RL-Maze</b></a> — Reinforcement Learning Agent for simulating maze</li>
 </ul>
 
 <h2>🔬 Research Publications</h2>
