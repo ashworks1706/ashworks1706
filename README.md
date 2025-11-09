@@ -52,7 +52,7 @@
 <li><a href="https://github.com/theaisocietyasu"><b>Memboard</b></a> —  Protected DB & Utility MCP for powering Multi AI worker agents with real time dashboard (AIS)</li>
 <li><a href="https://github.com/ashworks1706/Meg"><b>Meg</b></a> —  SmolLM desktop assistant for automating across notion, google calendar, whatsapp & discord mcp</li>
 <li><a href="https://github.com/ashworks1706/Piramid"><b>Piramid</b></a> — Rust based Hybrid vector database for LLM agents and MCP</li>
-<li><a href="https://github.com/ashworks1706/KaelumAI"><b>Kaelum</b></a> — Neural Reasoning Framework for Mixture of Domain Expert LLM agents with Monte Carlo Tree Search</li>
+<li><a href="https://github.com/ashworks1706/KaelumAI"><b>Kaelum</b></a> — Neural Reasoning Framework for Mixture of Expert LLM agents with Monte Carlo Tree Search</li>
   <li><a href="https://github.com/ashworks1706/ATeX"><b>Adaptive Teaching Evaluation (ATeX)</b></a> —  Testbed simulation on bench-marking agents on adaptive learning efficiency</li>
 <li><a href="https://github.com/theaisocietyasu"><b>AI Pedia</b></a> —  Headless CMS for managing AIS Wikis and resources (AIS)</li>
 <li><a href="https://github.com/theaisocietyasu"><b>Godfather</b></a> —  Admin dashboard for monitoring realtime gpu powered runpod services (AIS Internal)</li>
