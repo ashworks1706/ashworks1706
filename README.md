@@ -50,7 +50,7 @@
 <li><a href="https://github.com/ashworks1706/DStocks"><b>DStocks</b></a> —  Multi-agent market simulator using DQN to model human–AI trading with live order books on discord</li>
 <li><a href="https://github.com/theaisocietyasu"><b>Summit</b></a> —  Productivity agent for automating team tasks via discord, notion & google calendar (AIS)</li>
 <li><a href="https://github.com/theaisocietyasu"><b>Memboard</b></a> —  Protected DB & Utility MCP for powering Multi AI worker agents with real time dashboard (AIS)</li>
-<li><a href="https://github.com/ashworks1706/Bijou"><b>Bijou</b></a> —  Ultrafast tiny large language models that fit into small devices</li>
+<li><a href="https://github.com/ashworks1706/Bijou"><b>Bijou</b></a> —  Ultra fast tiny language models for wearables</li>
 <li><a href="https://github.com/ashworks1706/Piramid"><b>Piramid</b></a> — Rust based Hybrid vector database for LLM agents and MCP</li>
 <li><a href="https://github.com/ashworks1706/KaelumAI"><b>Kaelum</b></a> — Neural Reasoning Framework for Mixture of Expert LLM agents with Monte Carlo Tree Search</li>
   <li><a href="https://github.com/ashworks1706/ATeX"><b>Adaptive Teaching Evaluation (ATeX)</b></a> —  Testbed simulation on bench-marking agents on adaptive learning efficiency</li>
