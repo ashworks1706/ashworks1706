@@ -48,7 +48,8 @@
 <ul>
 <li><a href="https://github.com/ashworks1706/DStrat"><b>DStrat</b></a> —  PPO execution agent optimizing trade timing and slippage in stochastic markets with DStocks</li>
 <li><a href="https://github.com/ashworks1706/DStocks"><b>DStocks</b></a> —  Multi-agent market simulator using DQN to model human–AI trading with live order books on discord</li>
-<li><a href="https://github.com/theaisocietyasu"><b>Summit</b></a> —  Productivity agent for automating team tasks via discord, notion & google calendar (AIS)</li>
+<li><a href="https://github.com/theaisocietyasu"><b>Summit</b></a> —  Productivity LLM agent for automating team tasks via discord, notion & google calendar via Memboard (AIS)</li>
+  <li><a href="https://github.com/theaisocietyasu"><b>Theo</b></a> —  Customer LLM agent for summarizing resources, events and updates via Membopard (AIS)</li>
 <li><a href="https://github.com/theaisocietyasu"><b>Memboard</b></a> —  Protected DB & Utility MCP for powering Multi AI worker agents with real time dashboard (AIS)</li>
 <li><a href="https://github.com/ashworks1706/Bijou"><b>Bijou</b></a> —  Ultra fast tiny language models for wearables</li>
 <li><a href="https://github.com/ashworks1706/Piramid"><b>Piramid</b></a> — Rust based Hybrid vector database for LLM agents and MCP</li>
