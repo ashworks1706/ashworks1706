@@ -87,6 +87,17 @@
 <li><b>Google Gemini SDK</b> — Added asynchronous functions & system-level optimizations adopted in <b>150+ enterprise deployments</b>.</li>
 <li><b>Intel Retail AI Suite</b> — Developed LiDAR-based theft-detection module using OpenCV & Roboflow, reducing shrinkage by <b>25%</b> in pilot tests.</li>
 </ul>
+
+<h2>🏆 Wins</h2>
+<ul>
+<li><b>2nd Place</b> — <a href="https://tech.asu.edu/sparkchallenge">Google Cyber 360 Spark Challenge '25</a></li>
+<li><b>1st Place</b> — <a href="https://tech.asu.edu/sparkchallenge">Zoom Campus Impact Spark Challenge '25</a></li>
+<li><b>1st Place</b> — <a href="https://codeday.sh/insafe/">Intel HackTheVision '25 Hackathon</a></li>
+<li><b>1st Place</b> — <a href="https://codeday.sh/insafe/">International Codeday '24 Hackathon</a></li>
+<li><b>1st Place</b> — <a href="https://techxcelerate.devpost.com/">TechXcelerate '23 Hackathon</a></li>
+<li><b>2nd Place</b> — <a href="https://happyhacks1.devpost.com/">International Happy Hacks 1 '23 Hackathon</a></li>
+</ul>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 
