@@ -51,8 +51,8 @@
 <li><a href="https://github.com/theaisocietyasu"><b>Theo</b></a> —  Productivity LLM agent for automating team tasks via discord, notion & google calendar (AIS)</li>
   <li><a href="https://github.com/ashworks1706/meg"><b>Meg</b></a> —  SLM Swarm agents for workflow automation with social media & productivity tool for my workstation </li>
 <li><a href="https://github.com/theaisocietyasu"><b>Memboard</b></a> —  Protected DB & Utility MCP Cloud for powering Multi AI worker agents with real time dashboard (AIS)</li>
-<li><a href="https://github.com/ashworks1706/Bijou"><b>Bijou</b></a> —  Ultra fast tiny language models for wearables</li>
-<li><a href="https://github.com/ashworks1706/Piramid"><b>Piramid</b></a> — Rust based Hybrid vector database for LLM agents and MCP</li>
+<li><a href="https://github.com/ashworks1706/bijou"><b>Bijou</b></a> —  Tiny language models for tiny devices</li>
+<li><a href="https://github.com/ashworks1706/piramid"><b>Piramid</b></a> — Rust based Hybrid vector database for LLM agents and MCP</li>
 <li><a href="https://github.com/ashworks1706/KaelumAI"><b>Kaelum</b></a> — Neural Reasoning Framework for Mixture of Expert LLM agents with Monte Carlo Tree Search</li>
   <li><a href="https://github.com/ashworks1706/ATeX"><b>Adaptive Teaching Evaluation (ATeX)</b></a> —  Testbed simulation on bench-marking agents on adaptive learning efficiency</li>
 <li><a href="https://github.com/theaisocietyasu"><b>AI Pedia</b></a> —  Headless CMS for managing AIS Wikis and resources (AIS)</li>
