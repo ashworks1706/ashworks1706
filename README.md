@@ -49,7 +49,6 @@
 <li><a href="https://github.com/ashworks1706/DStrat"><b>DStrat</b></a> —  PPO execution agent optimizing trade timing and slippage in stochastic markets with DStocks</li>
 <li><a href="https://github.com/ashworks1706/DStocks"><b>DStocks</b></a> —  Multi-agent market simulator using DQN to model human–AI trading with live order books on discord</li>
 <li><a href="https://github.com/theaisocietyasu"><b>Theo</b></a> —  Productivity LLM agent for automating team tasks via discord, notion & google calendar (AIS)</li>
-  <li><a href="https://github.com/ashworks1706/meg"><b>Meg</b></a> —  SLM Swarm agents for workflow automation with social media & productivity tool for my workstation </li>
 <li><a href="https://github.com/theaisocietyasu"><b>Memboard</b></a> —  Protected DB & Utility MCP Cloud for powering Multi AI worker agents with real time dashboard (AIS)</li>
 <li><a href="https://github.com/ashworks1706/bijou"><b>Bijou</b></a> —  Tiny language models for tiny devices</li>
 <li><a href="https://github.com/ashworks1706/piramid"><b>Piramid</b></a> — Rust based Hybrid vector database for LLM agents and MCP</li>
@@ -61,7 +60,7 @@
 <li><a href="https://github.com/ashworks1706/agents-rag-from-scratch"><b>Agents & RAG from Scratch</b></a> — Foundations of agentic collaboration and retrieval architectures (AIS Workshop)</li>
 <li><a href="https://devpost.com/software/benchmind"><b>BenchMind</b></a> — AI agent benchmarking evaluation + visualization (CalHacks S12 project)</li>
 <li><a href="https://github.com/ashworks1706/RLHF-from-scratch"><b>RLHF from Scratch</b></a> — PPO-based feedback optimization for LLMs (AIS Workshop)</li>
-<li><a href="https://github.com/ashworks1706/LLM-from-scratch"><b>LLM from Scratch</b></a> — Transformer-based LLM architecture built from fundamentals (AIS Workshop)</li>
+<li><a href="https://github.com/ashworks1706/LLM-from-scratch"><b>LLM from Scratch</b></a> — Transformer-based LLM architectures built from fundamentals (AIS Workshop)</li>
 <li><a href="https://github.com/ashworks1706/PhisGuard-360"><b>Decoy</b></a> — RAG-powered cyber intelligence pipeline (2x Google Hackathon Winner)</li>
 <li><a href="https://sportsitters.com/"><b>SportSitters</b></a> — Fullstack Chat, Voice/Video call, Booking Management iOS/android App with Admin CSM realtime Dashboard</li>
 <li><a href="https://github.com/asusoda/platform"><b>Platform</b></a> — application integration for notion and google calendar API with faster lighthouse performance (SoDA)</li>
