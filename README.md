@@ -46,7 +46,6 @@
 <h2>🧩 Featured Projects</h2>
 
 <ul>
-<li><a href="https://github.com/theaisocietyasu"><b>Theo</b></a> —  Productivity LLM agent for automating team tasks via discord, notion & google calendar (AIS)</li>
 <li><a href="https://github.com/theaisocietyasu"><b>Memboard</b></a> —  Protected DB & Utility MCP Cloud for powering Multi AI worker agents with real time dashboard (AIS)</li>
 <li><a href="https://github.com/ashworks1706/bijou"><b>Bijou</b></a> —  Tiny language models for tiny devices</li>
 <li><a href="https://github.com/ashworks1706/piramid"><b>Piramid</b></a> — Rust based Hybrid vector database for LLM agents and MCP</li>
