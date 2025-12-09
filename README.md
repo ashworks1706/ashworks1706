@@ -50,7 +50,6 @@
 <li><a href="https://github.com/ashworks1706/bijou"><b>Bijou</b></a> —  Tiny language models for tiny devices</li>
 <li><a href="https://github.com/ashworks1706/piramid"><b>Piramid</b></a> — Rust based Hybrid vector database for LLM agents and MCP</li>
 <li><a href="https://github.com/ashworks1706/KaelumAI"><b>Kaelum</b></a> — Neural Reasoning Framework for Mixture of Expert LLM agents with Monte Carlo Tree Search</li>
-  <li><a href="https://github.com/ashworks1706/ATeX"><b>Adaptive Teaching Evaluation (ATeX)</b></a> —  Testbed simulation on bench-marking agents on adaptive learning efficiency</li>
 <li><a href="https://github.com/theaisocietyasu"><b>AI Pedia</b></a> —  Headless CMS for managing AIS Wikis and resources (AIS)</li>
 <li><a href="https://github.com/theaisocietyasu"><b>Godfather</b></a> —  Admin dashboard for monitoring realtime gpu powered runpod services with custom CLI (AIS Internal)</li>
 <li><a href="https://github.com/ashworks1706/SparkyAI"><b>SparkyAI</b></a> — Swarm of CRAG AI agents assisting students (ASU-Supported)</li>
