@@ -2,9 +2,9 @@
 <ul>
 <li> CS Undergraduate @ Arizona State University</li>
 <li> SWE @ ASU Decision Theatre | Research Engineer @ RISE Lab</li>
+<li> Director @ ASU AI Society | Officer @ Software Developers Association</li>
 <li> Experienced in building Internal Software Systems, Agentic Systems, and ML pipelines</li>
 <li> Actively research and build in LLM, RAG & RL architectures</li>
-<li> Director @ ASU AI Society | Officer @ Software Developers Association</li>
 </ul>
 <br>
 
@@ -46,7 +46,7 @@
 
 <ul>
 <li><a href="https://github.com/theaisocietyasu"><b>Memboard</b></a> —  Protected DB & Utility MCP Cloud for powering Multi AI worker agents with real time dashboard (AIS)</li>
-<li><a href="https://github.com/ashworks1706/bijou"><b>Bijou</b></a> —  Playing around with LLM architectures low level for some innovation</li>
+<li><a href="https://github.com/ashworks1706/bijou"><b>Bijou</b></a> —  Playing around with LLM architectures to spark something</li>
 <li><a href="https://github.com/ashworks1706/piramid"><b>Piramid</b></a> — Rust based Hybrid vector database for LLM agents and MCP</li>
 <li><a href="https://github.com/ashworks1706/KaelumAI"><b>Kaelum</b></a> — Neural Reasoning Framework for Mixture of Expert LLM agents with Monte Carlo Tree Search</li>
 <li><a href="https://github.com/theaisocietyasu"><b>AI Pedia</b></a> —  Headless CMS for managing AIS Wikis and resources (AIS)</li>
