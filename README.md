@@ -18,7 +18,7 @@
 </p>
 
 
-<h3>🛠 &nbsp;Tech Stack</h3>
+<h3>Tech Stack</h3>
 <ul>
 <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
