@@ -1,10 +1,10 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <ul>
-<li>🎓 CS Undergraduate @ Arizona State University</li>
-<li>🔭 SWE @ ASU Decision Theatre | Research Engineer @ RISE Lab</li>
-<li>🧠 Experienced in building Internal Software Systems, Agentic Systems, and ML pipelines</li>
-<li>📚 Actively research and build in LLM, RAG & RL architectures</li>
-<li>🌍 Director @ ASU AI Society | Officer @ Software Developers Association</li>
+<li> CS Undergraduate @ Arizona State University</li>
+<li> SWE @ ASU Decision Theatre | Research Engineer @ RISE Lab</li>
+<li> Experienced in building Internal Software Systems, Agentic Systems, and ML pipelines</li>
+<li> Actively research and build in LLM, RAG & RL architectures</li>
+<li> Director @ ASU AI Society | Officer @ Software Developers Association</li>
 </ul>
 <br>
 
@@ -42,7 +42,7 @@
 </ul>
 <br>
 
-<h2>🧩 Featured Projects</h2>
+<h2>Projects</h2>
 
 <ul>
 <li><a href="https://github.com/theaisocietyasu"><b>Memboard</b></a> —  Protected DB & Utility MCP Cloud for powering Multi AI worker agents with real time dashboard (AIS)</li>
@@ -67,19 +67,19 @@
 <li><a href="https://github.com/ashworks1706/RL-Maze"><b>RL-Maze</b></a> — Reinforcement Learning Agent for simulating maze</li>
 </ul>
 
-<h2>🔬 Research Publications</h2>
+<h2>Publications</h2>
 <ul>
 <li><a href="https://forge.engineering.asu.edu/participant/srivastava-ash/"><b>Risk-Sensitive Forward Modeling for Delayed Teleoperation Using Cumulative Prospect Theory</b></a>
 - CPT-based VAE model blending human risk perception for teleoperation safety under communication delay (inprog)</li>
 </ul>
 
-<h2>🌍 Open-Source Contributions</h2>
+<h2>Open-Source</h2>
 <ul>
 <li><b>Google Gemini SDK</b> — Added asynchronous functions & system-level optimizations adopted in <b>150+ enterprise deployments</b>.</li>
 <li><b>Intel Retail AI Suite</b> — Developed LiDAR-based theft-detection module using OpenCV & Roboflow, reducing shrinkage by <b>25%</b> in pilot tests.</li>
 </ul>
 
-<h2>🏆 Wins</h2>
+<h2>Wins</h2>
 <ul>
 <li><b>2nd Place</b> — <a href="https://tech.asu.edu/sparkchallenge">Google Cyber 360 Spark Challenge '25</a></li>
 <li><b>1st Place</b> — <a href="https://tech.asu.edu/sparkchallenge">Zoom Campus Impact Spark Challenge '25</a></li>
