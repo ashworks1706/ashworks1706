@@ -41,8 +41,7 @@
 </ul>
 <br>
 
-<h2>Projects</h2>
-
+<h3>Projects</h3>
 <ul>
 <li><a href="https://github.com/theaisocietyasu"><b>Memboard</b></a> —  Protected DB & Utility MCP Cloud for powering Multi AI worker agents with real time dashboard (AIS)</li>
 <li><a href="https://github.com/ashworks1706/bijou"><b>Bijou</b></a> —  Playing around with LLM architectures to spark something</li>
@@ -66,19 +65,19 @@
 <li><a href="https://github.com/ashworks1706/RL-Maze"><b>RL-Maze</b></a> — Reinforcement Learning Agent for simulating maze</li>
 </ul>
 
-<h2>Publications</h2>
+<h3>Publications</h3>
 <ul>
 <li><a href="https://forge.engineering.asu.edu/participant/srivastava-ash/"><b>Risk-Sensitive Forward Modeling for Delayed Teleoperation Using Cumulative Prospect Theory</b></a>
 - CPT-based VAE model blending human risk perception for teleoperation safety under communication delay (inprog)</li>
 </ul>
 
-<h2>Open-Source</h2>
+<h3>Open-Source</h3>
 <ul>
 <li><b>Google Gemini SDK</b> — Added asynchronous functions & system-level optimizations adopted in <b>150+ enterprise deployments</b>.</li>
 <li><b>Intel Retail AI Suite</b> — Developed LiDAR-based theft-detection module using OpenCV & Roboflow, reducing shrinkage by <b>25%</b> in pilot tests.</li>
 </ul>
 
-<h2>Wins</h2>
+<h3>Wins</h3>
 <ul>
 <li><b>2nd Place</b> — <a href="https://tech.asu.edu/sparkchallenge">Google Cyber 360 Spark Challenge '25</a></li>
 <li><b>1st Place</b> — <a href="https://tech.asu.edu/sparkchallenge">Zoom Campus Impact Spark Challenge '25</a></li>
