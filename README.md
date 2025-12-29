@@ -1,4 +1,3 @@
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <ul>
 <li> CS Undergraduate @ Arizona State University</li>
 <li> SWE @ ASU Decision Theatre | Research Engineer @ RISE Lab</li>
@@ -88,7 +87,3 @@
 <li><b>1st Place</b> — <a href="https://techxcelerate.devpost.com/">TechXcelerate '23 Hackathon</a></li>
 <li><b>2nd Place</b> — <a href="https://happyhacks1.devpost.com/">International Happy Hacks 1 '23 Hackathon</a></li>
 </ul>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
-
