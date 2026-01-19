@@ -64,7 +64,7 @@
 <li><a href="https://github.com/ashworks1706/Carbon-Emission-Detector"><b>Carbon Emission Detector</b></a> — Real-time CO₂ estimation from vehicle detection wiht TFlite phone inference</li>
 <li><a href="https://csya-edu.org/"><b>Educational Website</b></a> — Headless LMS for managing course content and payment gateways (CSYA)</li>
 <li><a href="https://github.com/ashworks1706/RL-Maze"><b>RL-Maze</b></a> — Reinforcement Learning Agent for simulating maze</li>
-<li><a href="https://devpost.com/software/safesentry"><b>SafeSentry</b></a> — React Native mobile app with Firebase real-time database, geolocation tracking, MapView integration, and push notification system with Figma-based UX research</li>
+<li><a href="https://devpost.com/software/safesentry"><b>SafeSentry</b></a> — React Native app with firebase real-time database, geolocation tracking, & push notification system</li>
 </ul>
 
 <h3>Publications</h3>
