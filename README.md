@@ -52,7 +52,7 @@
 <li><a href="https://admin.ais-asu.com/"><b>Godfather</b></a> —  Admin dashboard for monitoring realtime gpu powered runpod services with custom CLI (AIS Internal)</li>
 <li><a href="https://github.com/ashworks1706/SparkyAI"><b>SparkyAI</b></a> — Swarm of CRAG AI agents assisting students (ASU-Supported)</li>
 <li><a href="https://github.com/ashworks1706/agents-rag-from-scratch"><b>Agents & RAG from Scratch</b></a> — Foundations of agentic collaboration and retrieval architectures (AIS Workshop)</li>
-<li><a href="https://devpost.com/software/benchmind"><b>BenchMind</b></a> — AI agent benchmarking evaluation + visualization (CalHacks S12 project)</li>
+<li><a href="https://devpost.com/software/benchmind"><b>BenchMind</b></a> — AI agent benchmarking evaluation + visualization (CalHacks S12 '25)</li>
 <li><a href="https://github.com/ashworks1706/RLHF-from-scratch"><b>RLHF from Scratch</b></a> — PPO-based feedback optimization for LLMs (AIS Workshop)</li>
 <li><a href="https://github.com/ashworks1706/LLM-from-scratch"><b>LLM from Scratch</b></a> — Transformer-based LLM architectures built from fundamentals (AIS Workshop)</li>
 <li><a href="https://github.com/ashworks1706/PhisGuard-360"><b>Decoy</b></a> — RAG-powered cyber intelligence pipeline (2x Google Hack Winner)</li>
@@ -64,7 +64,7 @@
 <li><a href="https://github.com/ashworks1706/Carbon-Emission-Detector"><b>Carbon Emission Detector</b></a> — Real-time CO₂ estimation from vehicle detection wiht TFlite phone inference</li>
 <li><a href="https://csya-edu.org/"><b>Educational Website</b></a> — Headless LMS for managing course content and payment gateways (CSYA)</li>
 <li><a href="https://github.com/ashworks1706/RL-Maze"><b>RL-Maze</b></a> — Reinforcement Learning Agent for simulating maze</li>
-<li><a href="https://devpost.com/software/safesentry"><b>SafeSentry</b></a> — React Native app with real-time firestore, geolocation tracking, & push notifs (TechXcelerate '23 Hack Winner)</li>
+<li><a href="https://devpost.com/software/safesentry"><b>SafeSentry</b></a> — React Native app with real-time firestore, geolocation tracking, & push notifs (TechXcelerate'23 Winner)</li>
 </ul>
 
 <h3>Publications</h3>
