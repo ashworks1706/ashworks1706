@@ -1,7 +1,7 @@
 <ul>
 <li> CS Undergraduate @ Arizona State University</li>
-<li> SWE @ ASU Decision Theatre | Prev @ RISE Lab</li>
-<li> Former Director @ ASU AI Society | Officer @ Software Developers Association</li>
+<li> SWE @ [ASU Decision Theatre](https://dt.asu.edu/) | Prev @ [RISE Lab](https://home.riselab.info/)</li>
+<li> Prev @ [AI Society at ASU](https://github.com/theaisocietyasu) | Officer @ [Software Developers Association](https://github.com/asusoda)</li>
 <li> Experienced in building Internal Software Systems, Agentic Systems, and ML pipelines</li>
 <li> Actively research and build in LLM, RAG & RL architectures</li>
 </ul>
