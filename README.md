@@ -43,7 +43,7 @@
 
 <h3>Projects</h3>
 <ul>
-<li><a href="https://github.com/RETR0-OS/Doc2Mcp"><b>Doc2MCP</b></a> — API documentation to compressed MCP integration using agentic scraper (NexHacks '26)</li>
+<li><a href="https://github.com/ashworks1706/Doc2Mcp"><b>Doc2MCP</b></a> — API documentation to compressed MCP integration using agentic scraper (NexHacks '26)</li>
 <li><a href="https://github.com/theaisocietyasu"><b>Memboard</b></a> —  Protected DB & Utility MCP Cloud for powering Multi AI worker agents with real time dashboard (AIS)</li>
 <li><a href="https://github.com/ashworks1706/bijou"><b>Bijou</b></a> —  Playing around with LLM architectures to spark something</li>
 <li><a href="https://github.com/ashworks1706/piramid"><b>Piramid</b></a> — Rust based Hybrid vector database for LLM agents with MCP support</li>
