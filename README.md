@@ -3,7 +3,7 @@
 <li> SWE @ <a href="https://dt.asu.edu/">ASU Decision Theatre</a> | Prev ML Researcher @ <a href="https://home.riselab.info/">RISE Lab</a></li>
 <li> Senior Officer @ <a href="https://github.com/asusoda">Software Developers Association</a> | Prev Director @ <a href="https://github.com/theaisocietyasu">AI Society at ASU</a></li>
 <li> Experienced in building Internal Software Systems, Cloud Infra, Agentic Systems and ML pipelines</li>
-<li> Actively research and build in LLMs & RL architectures</li>
+<li> Actively research and build LLMs & RL architectures</li>
 </ul>
 <br>
 
@@ -80,10 +80,10 @@
 
 <h3>Wins</h3>
 <ul>
-<li><b>2nd Place</b> — <a href="https://tech.asu.edu/sparkchallenge">Google Cyber 360 Spark Challenge '25</a></li>
-<li><b>1st Place</b> — <a href="https://tech.asu.edu/sparkchallenge">Zoom Campus Impact Spark Challenge '25</a></li>
-<li><b>1st Place</b> — <a href="https://codeday.sh/insafe/">Intel HackTheVision '25 Hackathon</a></li>
-<li><b>1st Place</b> — <a href="https://codeday.sh/insafe/">International Codeday '24 Hackathon</a></li>
-<li><b>1st Place</b> — <a href="https://techxcelerate.devpost.com/">TechXcelerate '23 Hackathon</a></li>
-<li><b>2nd Place</b> — <a href="https://happyhacks1.devpost.com/">International Happy Hacks 1 '23 Hackathon</a></li>
+<li><a href="https://tech.asu.edu/sparkchallenge">Google Cyber 360 Spark Challenge '25</a></li>
+<li><a href="https://tech.asu.edu/sparkchallenge">Zoom Campus Impact Spark Challenge '25</a></li>
+<li><a href="https://codeday.sh/insafe/">Intel HackTheVision '25 Hackathon</a></li>
+<li><a href="https://codeday.sh/insafe/">International Codeday '24 Hackathon</a></li>
+<li><a href="https://techxcelerate.devpost.com/">TechXcelerate '23 Hackathon</a></li>
+<li><a href="https://happyhacks1.devpost.com/">International Happy Hacks 1 '23 Hackathon</a></li>
 </ul>
