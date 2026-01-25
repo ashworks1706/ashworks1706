@@ -46,7 +46,7 @@
 <li><a href="https://github.com/ashworks1706/Doc2Mcp"><b>Doc2MCP</b></a> — API documentation to compressed MCP integration using agentic scraper (NexHacks '26)</li>
 <li><a href="https://github.com/theaisocietyasu"><b>Memboard</b></a> —  Protected DB & Utility MCP Cloud for powering Multi AI worker agents with real time dashboard (AIS)</li>
 <li><a href="https://github.com/ashworks1706/piramid"><b>Piramid</b></a> — Rust based Hybrid vector database for LLM agents with MCP support</li>
-<li><a href="https://github.com/ashworks1706/KaelumAI"><b>Kaelum</b></a> — Neural Reasoning Framework for Mixture of Expert LLM agents with Monte Carlo Tree Search</li>
+<li><a href="https://github.com/ashworks1706/KaelumAI"><b>Kaelum</b></a> — Reasoning Framework for Mixture of Expert LLM agents with Monte Carlo Tree Search</li>
 <li><a href="https://aipedia-ais.vercel.app/"><b>AI Pedia</b></a> —  Headless CMS for managing AIS Wikis and resources (AIS)</li>
 <li><a href="https://admin.ais-asu.com/"><b>Godfather</b></a> —  Admin dashboard for monitoring realtime gpu powered runpod services with custom CLI (AIS Internal)</li>
 <li><a href="https://github.com/ashworks1706/SparkyAI"><b>SparkyAI</b></a> — Swarm of CRAG AI agents assisting students (ASU-Supported)</li>
