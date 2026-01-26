@@ -49,7 +49,7 @@
 <li><a href="https://github.com/ashworks1706/KaelumAI"><b>Kaelum</b></a> — Reasoning Framework for Mixture of Expert LLM agents with Monte Carlo Tree Search</li>
 <li><a href="https://ai-pedia.ais-asu.com/"><b>AI Pedia</b></a> —  Headless CMS for managing AIS Wikis and resources (AIS)</li>
 <li><a href="https://admin.ais-asu.com/"><b>Godfather</b></a> —  Admin dashboard for managing shared runpod gpu sessions with custom CLI (AIS Internal)</li>
-<li><a href="https://github.com/ashworks1706/SparkyAI"><b>SparkyAI</b></a> — Swarm of CRAG AI agents assisting students (ASU-Supported)</li>
+<li><a href="https://github.com/ashworks1706/SparkyAI"><b>SparkyAI</b></a> — Swarm of CRAG AI Agents working together on queries, take actions with self improving ML pipeline (ASU-Supported)</li>
 <li><a href="https://github.com/ashworks1706/agents-rag-from-scratch"><b>Agents & RAG from Scratch</b></a> — Foundations of agentic collaboration and retrieval architectures (AIS Workshop)</li>
 <li><a href="https://devpost.com/software/benchmind"><b>BenchMind</b></a> — AI agent benchmarking evaluation + visualization (CalHacks S12 '25)</li>
 <li><a href="https://github.com/ashworks1706/RLHF-from-scratch"><b>RLHF from Scratch</b></a> — PPO-based feedback optimization for LLMs (AIS Workshop)</li>
