@@ -5,8 +5,6 @@
 <li> Experienced in building Internal Software Systems and ML pipelines</li>
 <li> Actively research and build LLMs & RL architectures</li>
 </ul>
-<br>
-
 <h3>Projects</h3>
 <ul>
 <li><a href="https://github.com/ashworks1706/Doc2Mcp"><b>Doc2MCP</b></a> — API documentation to compressed MCP integration using agentic scraper (NexHacks '26)</li>
