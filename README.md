@@ -37,8 +37,8 @@
 
 <h3>Open-Source</h3>
 <ul>
-<li><b>Google Gemini SDK</b> — Added asynchronous functions & system-level optimizations adopted in <b>150+ enterprise deployments</b>.</li>
-<li><b>Intel Retail AI Suite</b> — Developed LiDAR-based theft-detection module using OpenCV & Roboflow, reducing shrinkage by <b>25%</b> in pilot tests.</li>
+<li><b>Google Gemini SDK</b> — Added asynchronous functions & library optimizations</li>
+<li><b>Intel Retail AI Suite</b> — LiDAR-based theft-detection module in pilot tests.</li>
 </ul>
 
 <h3>Wins</h3>
