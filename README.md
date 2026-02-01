@@ -16,10 +16,10 @@
 <li><a href="https://github.com/ashworks1706/agents-rag-from-scratch"><b>Agents & RAG from Scratch</b></a> — Foundations of agentic collaboration and retrieval architectures (AIS Workshop)</li>
 <li><a href="https://devpost.com/software/benchmind"><b>BenchMind</b></a> — AI agent benchmarking evaluation + visualization (CalHacks S12 '25)</li>
 <li><a href="https://github.com/ashworks1706/RLHF-from-scratch"><b>RLHF from Scratch</b></a> — PPO-based feedback optimization for LLMs (AIS Workshop)</li>
-<li><a href="https://github.com/ashworks1706/LLM-from-scratch"><b>LLM from Scratch</b></a> — Transformer-based LLM architectures built from fundamentals (AIS Workshop)</li>
+<li><a href="https://github.com/ashworks1706/LLM-from-scratch"><b>LLM from Scratch</b></a> — LLM Production Engineering built from fundamentals (AIS Workshop)</li>
 <li><a href="https://github.com/ashworks1706/PhisGuard-360"><b>Decoy</b></a> — RAG-powered cyber intelligence pipeline (2x Google Hack Winner)</li>
 <li><a href="https://sportsitters.pro/"><b>SportSitters</b></a> — Fullstack Chat, Voice/Video call, Booking Management iOS/android App with Admin CSM realtime Dashboard</li>
-<li><a href="https://github.com/asusoda/platform"><b>Platform</b></a> — application integration for notion and google calendar API with faster lighthouse performance (SoDA)</li>
+<li><a href="https://github.com/asusoda/platform"><b>Platform</b></a> — internal tools infra with admin panels and org website for prods (SoDA)</li>
 <li><a href="https://github.com/ashworks1706/Eve"><b>Eve</b></a> — Gemini-powered robotic arm for multimodal equipment handling (PI Automation)</li>
 <li><a href="https://github.com/ashworks1706/Lux"><b>Lux</b></a> — Agentic AI for real-time fashion recommendations (Devhacks)</li>
 <li><a href="https://github.com/ashworks1706/AI-Solar-Panel"><b>AI Solar Panel</b></a> — YOLOv8-based adaptive solar tracking system</li>
