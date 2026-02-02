@@ -1,7 +1,7 @@
 <ul>
 <li> CS Undergraduate @ Arizona State University</li>
 <li> SWE @ <a href="https://dt.asu.edu/">Decision Theatre</a> | prev. ML Researcher @ <a href="https://home.riselab.info/">RISE LAB</a></li>
-<li> Senior Officer @ <a href="https://github.com/asusoda">SoDA</a> | prev. Director @ <a href="https://github.com/aisocietyatasu">AIS</a></li> 
+<li> Senior Officer @ <a href="https://github.com/asusoda">SoDA</a> | prev. Director @ <a href="https://github.com/theaisocietyatasu">AIS</a></li> 
 <li> Experienced in building Internal Software Systems and ML pipelines</li>
 <li> Actively research and build LLMs & RL architectures</li>
 </ul>
