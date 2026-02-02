@@ -1,5 +1,5 @@
 <ul>
-<li> CS Undergraduate @ Arizona State University</li>
+<li> CS undergrad @ ASU'28</li>
 <li> SWE @ <a href="https://dt.asu.edu/">Decision Theatre</a> | prev. ML Researcher @ <a href="https://home.riselab.info/">RISE LAB</a></li>
 <li> Senior Officer @ <a href="https://github.com/asusoda">SoDA</a> | prev. Director @ <a href="https://github.com/theaisocietyasu">AIS</a></li> 
 <li> Experienced in building Internal Software Systems and ML pipelines</li>
