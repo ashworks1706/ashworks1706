@@ -5,7 +5,8 @@
 </ul>
 <h3>Projects</h3>
 <ul>
-<li><a href="https://github.com/ashworks1706/piramid"><b>Piramid</b></a> — Rust based vector database for LLM agents with custom GPU kernel acceleration</li>
+<li><a href="https://github.com/ashworks1706/zipy"><b>Zipy</b></a> — GPU compute kernel runtime for accelerating vector database operation</li>
+<li><a href="https://github.com/ashworks1706/piramid"><b>Piramid</b></a> — Rust based production vector database for LLM agents</li>
 <li><a href="https://github.com/ashworks1706/LLM-from-scratch"><b>LLM from Scratch</b></a> — LLM Production Engineering built from fundamentals (AIS Workshop)</li>
 <li><a href="https://github.com/ashworks1706/Doc2Mcp"><b>Doc2MCP</b></a> — API documentation to compressed MCP integration using agentic scraper (NexHacks '26)</li>
 <li><a href="https://github.com/ashworks1706/Kaelum"><b>Kaelum</b></a> — Reasoning Framework for Mixture of Expert LLM agents with Monte Carlo Tree Search</li>
