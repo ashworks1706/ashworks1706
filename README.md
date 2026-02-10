@@ -3,26 +3,27 @@
 <li> SWE @ <a href="https://dt.asu.edu/">Decision Theatre</a> | ML Researcher @ <a href="https://arc-asu.github.io/">ARC LAB</a> | prev. @ <a href="https://home.riselab.info/">RISE LAB</a></li>
 <li> Senior Officer @ <a href="https://github.com/asusoda">SoDA</a> | prev. @ <a href="https://github.com/theaisocietyasu">AIS</a></li> 
 </ul>
+
 <h3>Projects</h3>
 <ul>
-<li><a href="https://github.com/ashworks1706/zipy"><b>Zipy</b></a> — GPU compute kernel runtime for accelerating vector database operations</li>
 <li><a href="https://github.com/ashworks1706/piramid"><b>Piramid</b></a> — Rust based production vector database for LLM agents</li>
-<li><a href="https://github.com/ashworks1706/LLM-from-scratch"><b>LLM from Scratch</b></a> — LLM Production Engineering built from fundamentals (AIS Workshop)</li>
-<li><a href="https://github.com/ashworks1706/Doc2Mcp"><b>Doc2MCP</b></a> — API documentation to compressed MCP integration using agentic scraper (NexHacks '26)</li>
+<li><a href="https://github.com/ashworks1706/zipy"><b>Zipy</b></a> — Compute kernel runtime for accelerating vector database operations</li>
 <li><a href="https://github.com/ashworks1706/Kaelum"><b>Kaelum</b></a> — Reasoning Framework for Mixture of Expert LLM agents with Monte Carlo Tree Search</li>
-<li><a href="https://ai-pedia.ais-asu.com/"><b>AI Pedia</b></a> —  Headless CMS for managing AIS Wikis and resources (AIS)</li>
-<li><a href="https://admin.ais-asu.com/"><b>Godfather</b></a> —  Admin dashboard for managing shared runpod gpu sessions with custom CLI (AIS Internal)</li>
-<li><a href="https://github.com/ashworks1706/SparkyAI"><b>SparkyAI</b></a> — Swarm of CRAG AI Agents work together on queries, take actions with self improving ML pipeline (ASU-Trusted)</li>
-<li><a href="https://github.com/ashworks1706/agents-rag-from-scratch"><b>Agents & RAG from Scratch</b></a> — Foundations of agentic collaboration and retrieval architectures (AIS Workshop)</li>
+<li><a href="https://github.com/ashworks1706/SparkyAI"><b>SparkyAI</b></a> — Swarm of CRAG AI Agents with self-improving ML pipeline (ASU-Trusted)</li>
+<li><a href="https://github.com/ashworks1706/Doc2Mcp"><b>Doc2MCP</b></a> — API documentation to compressed MCP integration using agentic scraper (NexHacks '26)</li>
 <li><a href="https://devpost.com/software/benchmind"><b>BenchMind</b></a> — AI agent benchmarking evaluation + visualization (CalHacks S12 '25)</li>
-<li><a href="https://github.com/ashworks1706/RLHF-from-scratch"><b>RLHF from Scratch</b></a> — PPO-based feedback optimization for LLMs (AIS Workshop)</li>
+<li><a href="https://github.com/ashworks1706/LLM-from-scratch"><b>LLM from Scratch</b></a> — LLM Production Engineering built from fundamentals (AIS Workshop)</li>
+<li><a href="https://sportsitters.pro/"><b>SportSitters</b></a> — Fullstack Chat, Voice/Video call, Booking Management iOS/android App with Admin Dashboard</li>
 <li><a href="https://github.com/ashworks1706/PhisGuard-360"><b>Decoy</b></a> — RAG-powered cyber intelligence pipeline (2x Google Hack Winner)</li>
-<li><a href="https://sportsitters.pro/"><b>SportSitters</b></a> — Fullstack Chat, Voice/Video call, Booking Management iOS/android App with Admin CSM realtime Dashboard</li>
-<li><a href="https://github.com/asusoda/platform"><b>Platform</b></a> — internal tools infra with admin panels and org website for prods (SoDA)</li>
+<li><a href="https://github.com/asusoda/platform"><b>Platform</b></a> — Internal tools infra with admin panels and org website (SoDA)</li>
+<li><a href="https://github.com/ashworks1706/RLHF-from-scratch"><b>RLHF from Scratch</b></a> — PPO-based feedback optimization for LLMs (AIS Workshop)</li>
+<li><a href="https://admin.ais-asu.com/"><b>Godfather</b></a> — Admin dashboard for managing shared runpod GPU sessions with custom CLI (AIS Internal)</li>
+<li><a href="https://github.com/ashworks1706/agents-rag-from-scratch"><b>Agents & RAG from Scratch</b></a> — Foundations of agentic collaboration and retrieval architectures (AIS Workshop)</li>
 <li><a href="https://github.com/ashworks1706/Eve"><b>Eve</b></a> — Gemini-powered robotic arm for multimodal equipment handling (PI Automation)</li>
-<li><a href="https://github.com/ashworks1706/Lux"><b>Lux</b></a> — Agentic AI for real-time fashion recommendations (Devhacks)</li>
+<li><a href="https://ai-pedia.ais-asu.com/"><b>AI Pedia</b></a> — Headless CMS for managing AIS Wikis and resources (AIS)</li>
 <li><a href="https://github.com/ashworks1706/AI-Solar-Panel"><b>AI Solar Panel</b></a> — YOLOv8-based adaptive solar tracking system</li>
-<li><a href="https://github.com/ashworks1706/Carbon-Emission-Detector"><b>Carbon Emission Detector</b></a> — Real-time CO₂ estimation from vehicle detection wiht TFlite phone inference</li>
+<li><a href="https://github.com/ashworks1706/Carbon-Emission-Detector"><b>Carbon Emission Detector</b></a> — Real-time CO₂ estimation from vehicle detection with TFlite phone inference</li>
+<li><a href="https://github.com/ashworks1706/Lux"><b>Lux</b></a> — Agentic AI for real-time fashion recommendations (Devhacks)</li>
 <li><a href="https://csya-edu.org/"><b>Educational Website</b></a> — Headless LMS for managing course content and payment gateways (CSYA)</li>
 <li><a href="https://github.com/ashworks1706/RL-Maze"><b>RL-Maze</b></a> — Reinforcement Learning Agent for simulating maze</li>
 <li><a href="https://devpost.com/software/safesentry"><b>SafeSentry</b></a> — React Native app with real-time firestore, geolocation tracking, & push notifs (TechXcelerate'23 Winner)</li>
