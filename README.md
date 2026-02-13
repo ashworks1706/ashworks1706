@@ -1,6 +1,6 @@
 <ul>
 <li> CS undergrad @ ASU'28</li>
-<li> SWE @ <a href="https://dt.asu.edu/">Decision Theatre</a> | prev. @ <a href="https://home.riselab.info/">RISE LAB</a></li>
+<li> SWE @ <a href="https://dt.asu.edu/">Decision Theatre</a> ML @ <a href="https://arc-asu.github.io/"> ARC LAB </a> | prev. @ <a href="https://home.riselab.info/">RISE LAB</a></li>
 <li> Senior Officer @ <a href="https://github.com/asusoda">SoDA</a> | prev. @ <a href="https://github.com/theaisocietyasu">AIS</a></li> 
 </ul>
 
