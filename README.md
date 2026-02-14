@@ -31,8 +31,7 @@
 
 <h3>Publications</h3>
 <ul>
-<li><a href="https://forge.engineering.asu.edu/participant/srivastava-ash/"><b>Risk-Sensitive Forward Modeling for Delayed Teleoperation Using Cumulative Prospect Theory</b></a>
-- CPT-based VAE model blending human risk perception for teleoperation safety under communication delay (inprog)</li>
+<li><a href="https://forge.engineering.asu.edu/participant/srivastava-ash/"><b>Risk-Sensitive Forward Modeling for Delayed Teleoperation Using Cumulative Prospect Theory</b></a></li>
 </ul>
 
 <h3>Open-Source</h3>
