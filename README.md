@@ -16,7 +16,7 @@
 <li><a href="https://sportsitters.pro/"><b>SportSitters</b></a> — Fullstack Chat, Voice/Video call, Booking Management iOS/android App with Admin Dashboard</li>
 <li><a href="https://github.com/ashworks1706/PhisGuard-360"><b>Decoy</b></a> — RAG-powered cyber intelligence pipeline (2x Google Hack Winner)</li>
 <li><a href="https://github.com/asusoda/platform"><b>Platform</b></a> — Internal tools infra with admin panels and org website (SoDA)</li>
-<li><a href="https://github.com/ashworks1706/RLHF-from-scratch"><b>RLHF from Scratch</b></a> — RLHF Engineering built from fundamentals for LLMs (AIS Workshop)</li>
+<li><a href="https://github.com/ashworks1706/RLHF-from-scratch"><b>RLHF from Scratch</b></a> — RLHF Engineering built from fundamentals for LLMs (100+ Stars)</li>
 <li><a href="https://admin.ais-asu.com/"><b>Godfather</b></a> — Admin dashboard for managing shared runpod GPU sessions with custom CLI (AIS Internal)</li>
 <li><a href="https://github.com/ashworks1706/agents-rag-from-scratch"><b>Agents & RAG from Scratch</b></a> — Foundations of agentic collaboration and retrieval architectures (AIS Workshop)</li>
 <li><a href="https://github.com/ashworks1706/Eve"><b>Eve</b></a> — Gemini-powered robotic arm for multimodal equipment handling (PI Automation)</li>
