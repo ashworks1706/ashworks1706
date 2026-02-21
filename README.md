@@ -8,7 +8,7 @@
 <ul>
 <li><a href="https://github.com/ashworks1706/piramid"><b>Piramid</b></a> — Rust based production vector database for LLM agents</li>
 <li><a href="https://github.com/ashworks1706/zipy"><b>Zipy</b></a> — Compute kernel runtime for accelerating vector database operations</li>
-<li><a href="https://github.com/ashworks1706/Kaelum"><b>Kaelum</b></a> — Inference-time MCTS-guided reasoning with learned neural network routing across domain-specialized LLM agents</li>
+<li><a href="https://github.com/ashworks1706/Kaelum"><b>Kaelum</b></a> — Inference-time MCTS-guided reasoning with learned neural network routing across specialized LLM agents</li>
 <li><a href="https://github.com/ashworks1706/SparkyAI"><b>SparkyAI</b></a> — Swarm of CRAG AI Agents with self-improving ML pipeline (ASU-Trusted)</li>
 <li><a href="https://github.com/ashworks1706/Doc2Mcp"><b>Doc2MCP</b></a> — API documentation to compressed MCP integration using agentic scraper (NexHacks '26)</li>
 <li><a href="https://devpost.com/software/benchmind"><b>BenchMind</b></a> — AI agent benchmarking evaluation + visualization (CalHacks S12 '25)</li>
