@@ -7,7 +7,7 @@
 <h3>Projects</h3>
 <ul>
 <li><a href="https://github.com/ashworks1706/piramid"><b>Piramid</b></a> — Rust based production vector database for LLM agents</li>
-<li><a href="https://github.com/ashworks1706/zipy"><b>Zipy</b></a> — Compute kernel runtime for accelerating vector database operations</li>
+<li><a href="https://github.com/ashworks1706/zipy"><b>Zipy</b></a> — GPU Compute Runtime for ML Inference & Retrieval</li>
 <li><a href="https://github.com/ashworks1706/Kaelum"><b>Kaelum</b></a> — LATS-based inference-time with a reward model and online-learning policy router across domain workers</li>
 <li><a href="https://github.com/ashworks1706/SparkyAI"><b>SparkyAI</b></a> — Swarm of CRAG AI Agents with self-improving ML pipeline (ASU-Trusted)</li>
 <li><a href="https://github.com/ashworks1706/Doc2Mcp"><b>Doc2MCP</b></a> — API documentation to compressed MCP integration using agentic scraper (NexHacks '26)</li>
