@@ -38,7 +38,7 @@
 <ul>
 <li><a href="https://tech.asu.edu/sparkchallenge">Google Cyber 360 Spark Challenge '25</a></li>
 <li><a href="https://tech.asu.edu/sparkchallenge">Zoom Campus Impact Spark Challenge '25</a></li>
-<li><a href="https://codeday.sh/insafe/">Intel HackTheVision '25 Hackathon</a></li>
+<li><a href="https://www.linkedin.com/posts/george-badu_cybersecurity-ai-machinelearning-activity-7384092936596152320-xynO?utm_source=share&utm_medium=member_desktop&rcm=ACoAADfujpcBOfEU1oGmFEcoQQHjrBrktzqPnMM">Intel HackTheVision '25 Hackathon</a></li>
 <li><a href="https://codeday.sh/insafe/">International Codeday '24 Hackathon</a></li>
 <li><a href="https://techxcelerate.devpost.com/">TechXcelerate '23 Hackathon</a></li>
 <li><a href="https://happyhacks1.devpost.com/">International Happy Hacks 1 '23 Hackathon</a></li>
