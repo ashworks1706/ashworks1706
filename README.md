@@ -28,11 +28,11 @@
 <li><a href="https://forge.engineering.asu.edu/participant/srivastava-ash/"><b>Risk-Sensitive Forward Modeling for Delayed Teleoperation Using Cumulative Prospect Theory</b></a></li>
 </ul>
 
-<h3>Open-Source</h3>
+<!-- <h3>Open-Source</h3>
 <ul>
 <li><b>Google Gemini SDK</b> — Added asynchronous functions & library optimizations</li>
 <li><b>Intel Retail AI Suite</b> — LiDAR-based theft-detection module in pilot tests.</li>
-</ul>
+</ul> -->
 
 <h3>Wins</h3>
 <ul>
