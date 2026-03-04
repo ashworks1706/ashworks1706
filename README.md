@@ -6,7 +6,7 @@
 
 <h3>Projects</h3>
 <ul>
-<!-- <li><a href="https://github.com/ashworks1706/zipy"><b>Zipy</b></a> — GPU Compute Runtime for Retrieval Augmented Systems</li> -->
+<!-- <li><a href="https://github.com/ashworks1706/zipy"><b>Zipy</b></a> — Inference Engine for Retrieval Augmented Systems</li> -->
 <li><a href="https://github.com/ashworks1706/piramid"><b>Piramid</b></a> — Rust based production vector database for Agentic applications</li>
 <li><a href="https://github.com/ashworks1706/Kaelum"><b>Kaelum</b></a> — LATS-based inference with a reward model and online policy router across domain workers</li>
 <li><a href="https://github.com/ashworks1706/SparkyAI"><b>SparkyAI</b></a> — Swarm of CRAG AI Agents with finetuning ML pipeline (ASU-Trusted)</li>
