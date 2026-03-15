@@ -34,7 +34,7 @@
 <li><b>Intel Retail AI Suite</b> — LiDAR-based theft-detection module in pilot tests.</li>
 </ul> -->
 
-<h3>Wins</h3>
+<!-- <h3>Wins</h3>
 <ul>
 <li><a href="https://tech.asu.edu/sparkchallenge">Google Cyber 360 Spark Challenge '25</a></li>
 <li><a href="https://tech.asu.edu/sparkchallenge">Zoom Campus Impact Spark Challenge '25</a></li>
@@ -42,4 +42,4 @@
 <li><a href="https://codeday.sh/insafe/">International Codeday '24 Hackathon</a></li>
 <li><a href="https://techxcelerate.devpost.com/">TechXcelerate '23 Hackathon</a></li>
 <li><a href="https://happyhacks1.devpost.com/">International Happy Hacks 1 '23 Hackathon</a></li>
-</ul>
+</ul> -->
