@@ -25,7 +25,8 @@
 
 <h3>Publications</h3>
 <ul>
-<li><a href="https://forge.engineering.asu.edu/participant/srivastava-ash/"><b>Risk-Sensitive Forward Modeling for Delayed Teleoperation Using Cumulative Prospect Theory</b></a></li>
+<li>Risk-Sensitive Forward Modeling for Delayed Teleoperation Using Cumulative Prospect Theory (inprog @ RISE)</li>
+<li>Resource-Constrained Latent Reasoning in Large Language Models (inprog @ ARC)</li>
 </ul>
 
 <!-- <h3>Open-Source</h3>
