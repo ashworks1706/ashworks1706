@@ -6,8 +6,8 @@
 
 <h4>Projects</h4>
 <ul>
-<!-- <li><a href="https://github.com/ashworks1706/zipy"><b>Zipy</b></a> — Inference Engine for Retrieval Augmented Systems</li> -->
 <i>system/infra/devtools</i>
+<!-- <li><a href="https://github.com/ashworks1706/zipy"><b>Zipy</b></a> — Energy aware inference engine for Autonomous systems</li> -->
 <li><a href="https://github.com/ashworks1706/piramid"><b>Piramid</b></a> — Rust based production vector database for Agentic applications</li>
 <li><a href="https://github.com/ashworks1706/Kaelum"><b>Kaelum</b></a> — Reasoning agents inference with a reward model and online policy router across domain workers</li>
 <li><a href="https://github.com/ashworks1706/AI-Solar-Panel"><b>AI-Solar-Panel</b></a> — Edge-ML solar tracking system with scheduled long distant vision & control</li>
