@@ -4,7 +4,7 @@
 <li> prev. @ <a href="https://home.riselab.info/">RISE LAB</a> @ <a href="https://github.com/asusoda">SoDA</a> @ <a href="https://github.com/theaisocietyasu">AIS</a></li> 
 </ul>
 
-<h3>Projects</h3>
+<h4>Projects</h4>
 <ul>
 <!-- <li><a href="https://github.com/ashworks1706/zipy"><b>Zipy</b></a> — Inference Engine for Retrieval Augmented Systems</li> -->
 <li><a href="https://github.com/ashworks1706/piramid"><b>Piramid</b></a> — Rust based production vector database for Agentic applications</li>
@@ -23,7 +23,7 @@
 <li><a href="https://devpost.com/software/safesentry"><b>SafeSentry</b></a> — React Native app with real-time firestore, geolocation tracking, & push notifs (TechXcelerate'23 Winner)</li>
 </ul>
 
-<h3>Publications</h3>
+<h4>Publications</h4>
 <ul>
 <li>Risk-Sensitive Forward Modeling for Delayed Teleoperation Using Cumulative Prospect Theory (inprog @ RISE)</li>
 <li>Resource-Constrained Latent Reasoning in Large Language Models (inprog @ ARC)</li>
