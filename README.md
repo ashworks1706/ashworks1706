@@ -23,6 +23,7 @@
 <i>full stack</i>
 <li><a href="https://devpost.com/software/safesentry"><b>SafeSentry</b></a> — React Native app with real-time firestore, geolocation tracking, & push notifs (TechXcelerate'23 Winner)</li>
 <li><a href="https://ai-pedia.ais-asu.com/"><b>AI Pedia</b></a> — Headless CMS for managing AI course materials and WiKIs (AIS)</li>
+<li><a href="https://github.com/ashworks1706/Edumon"><b>Edumon</b></a> — AI powered social networking platform for schools (Ctrl Hacks)</li>
 <i>workshops/tutorials</i>
 <li><a href="https://github.com/ashworks1706/LLM-from-scratch"><b>LLM from Scratch</b></a> — LLM Production Engineering built from fundamentals (AIS Workshop)</li>
 <li><a href="https://github.com/ashworks1706/RLHF-from-scratch"><b>RLHF from Scratch</b></a> — RLHF Engineering built from fundamentals for LLMs (100+ Stars)</li>
