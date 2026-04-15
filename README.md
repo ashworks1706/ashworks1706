@@ -4,7 +4,7 @@
 <li> prev. @ <a href="https://home.riselab.info/">RISE LAB</a> @ <a href="https://github.com/asusoda">SoDA</a> @ <a href="https://github.com/theaisocietyasu">AIS</a></li> 
 </ul>
 
-<h5>Projects</h5>
+<h4>Personal Projects</h4>
 <ul>
 <i>system/infra/devtools</i>
 <!-- <li><a href="https://github.com/ashworks1706/zipy"><b>Zipy</b></a> — Energy aware inference engine for Autonomous systems</li> -->
