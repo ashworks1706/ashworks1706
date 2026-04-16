@@ -9,10 +9,10 @@
 <i>system/infra/devtools</i>
 <!-- <li><a href="https://github.com/ashworks1706/zipy"><b>Zipy</b></a> — Energy aware inference engine for Autonomous systems</li> -->
 <li><a href="https://github.com/ashworks1706/piramid"><b>Piramid</b></a> — Rust based production vector database for Agentic applications</li>
-<li><a href="https://github.com/ashworks1706/Kaelum"><b>Kaelum</b></a> — Reasoning agents inference with a reward model and online policy router across domain workers</li>
 <li><a href="https://github.com/ashworks1706/Helion"><b>Helion</b></a> — Edge-ML solar tracking system with scheduled long distant vision & control</li>
 <li><a href="https://admin.ais-asu.com/"><b>Godfather</b></a> — Admin dashboard for managing shared runpod GPU sessions with custom CLI (AIS Internal)</li>
 <li><a href="https://github.com/asusoda/platform"><b>Platform</b></a> — Internal tools infra with admin panels and org website (SoDA)</li>
+<li><a href="https://github.com/ashworks1706/Kaelum"><b>Kaelum</b></a> — Reasoning agents inference with a reward model and online policy router across domain workers</li>
 <i>agents</i>
 <li><a href="https://github.com/ashworks1706/SparkyAI"><b>SparkyAI</b></a> — Multi-step collaborative CRAG AI Agents with self improving ML pipeline (ASU-Trusted)</li>
 <li><a href="https://github.com/ashworks1706/Doc2Mcp"><b>Doc2MCP</b></a> — API documentation to compressed MCP integration using agentic scraper (NexHacks '26)</li>
