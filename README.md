@@ -1,9 +1,3 @@
-<ul>
-<li> CS @ ASU'28</li>
-<li> SWE @ <a href="https://dt.asu.edu/">Decision Theatre</a> | ML @ <a href="https://arc-asu.github.io/"> ARC LAB </a></li>
-<li> prev. @ <a href="https://home.riselab.info/">RISE LAB</a> @ <a href="https://github.com/asusoda">SoDA</a> @ <a href="https://github.com/theaisocietyasu">AIS</a></li> 
-</ul>
-
 <h4>Personal Projects</h4>
 <ul>
 <i>system/infra/devtools</i>
