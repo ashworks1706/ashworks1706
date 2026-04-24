@@ -11,7 +11,7 @@
 <li><a href="https://github.com/ashworks1706/SparkyAI"><b>SparkyAI</b></a> — Multi-step collaborative CRAG AI Agents with self improving ML pipeline (ASU-Trusted)</li>
 <li><a href="https://github.com/ashworks1706/Doc2Mcp"><b>Doc2MCP</b></a> — API documentation to compressed MCP integration using agentic scraper (NexHacks '26)</li>
 <li><a href="https://github.com/ashworks1706/HiveMind"><b>HiveMind</b></a> — Agentic Tutor for Zoom sessions with real-time transcript ingestion and semantic vector search (ScaleU '25)</li>
-<li><a href="https://devpost.com/software/benchmind"><b>BenchMind</b></a> — AI agent benchmarking evaluation + visualization (CalHacks S12 '25)</li>
+<!-- <li><a href="https://devpost.com/software/benchmind"><b>BenchMind</b></a> — AI agent benchmarking evaluation + visualization (CalHacks S12 '25)</li> -->
 <li><a href="https://github.com/ashworks1706/Decoy"><b>Decoy</b></a> — RAG-powered cyber intelligence pipeline (2x Google Hack Winner)</li>
 <li><a href="https://github.com/ashworks1706/Eve"><b>Eve</b></a> — Gemini-powered robotic arm for multimodal equipment handling (PI Automation)</li>
 <i>full stack</i>
@@ -23,11 +23,11 @@
 <li><a href="https://github.com/ashworks1706/RLHF-from-scratch"><b>RLHF from Scratch</b></a> — RLHF Engineering built from fundamentals for LLMs (100+ Stars)</li>
 </ul>
 
-<h4>Publications</h4>
+<!-- <h4>Publications</h4>
 <ul>
 <li>Risk-Sensitive Forward Modeling for Delayed Teleoperation Using Cumulative Prospect Theory (inprog @ RISE)</li>
 <li>Resource-Constrained Latent Reasoning in Large Language Models (inprog @ ARC)</li>
-</ul>
+</ul> -->
 
 <!-- <h3>Open-Source</h3>
 <ul>
