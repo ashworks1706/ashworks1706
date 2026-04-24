@@ -23,11 +23,11 @@
 <li><a href="https://github.com/ashworks1706/RLHF-from-scratch"><b>RLHF from Scratch</b></a> — RLHF Engineering built from fundamentals for LLMs (100+ Stars)</li>
 </ul>
 
-<!-- <h4>Publications</h4>
+<h4>Publications</h4>
 <ul>
 <li>Risk-Sensitive Forward Modeling for Delayed Teleoperation Using Cumulative Prospect Theory (inprog @ RISE)</li>
-<li>Resource-Constrained Latent Reasoning in Large Language Models (inprog @ ARC)</li>
-</ul> -->
+<!-- <li>Resource-Constrained Latent Reasoning in Large Language Models (inprog @ ARC)</li> -->
+</ul> 
 
 <!-- <h3>Open-Source</h3>
 <ul>
