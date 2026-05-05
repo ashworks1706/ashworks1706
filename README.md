@@ -1,13 +1,16 @@
 <h4>Personal Projects</h4>
-<ul>
+
 <i>system/infra/inference</i>
-<!-- <li><a href="https://github.com/ashworks1706/zipy"><b>Zipy</b></a> — Energy aware inference engine for Autonomous systems</li> -->
+<ul>
 <li><a href="https://github.com/ashworks1706/piramid"><b>Piramid</b></a> — Rust-based vector database for AI retrieval, ANN queries & memory-optimized storage</li>
 <li><a href="https://github.com/ashworks1706/Helion"><b>Helion</b></a> — Edge ML system that tracks the sun using CV & dynamically controls motors to maximize energy efficiency</li>
 <li><a href="https://pypi.org/project/godfather-cli/"><b>Godfather</b></a> — Dashboard+CLI for shared authenticated Pod GPU environments & automated SSH workflows (AIS)</li>
 <li><a href="https://github.com/asusoda/platform"><b>Platform</b></a> — Backend platform with microservices supporting Google, Notion APIs and CI/CD workflows for productivity</li>
 <li><a href="https://github.com/ashworks1706/Kaelum"><b>Kaelum</b></a> — Reasoning agents inference with a reward model and online policy router for diversified trajectories</li>
+<!-- <li><a href="https://github.com/ashworks1706/zipy"><b>Zipy</b></a> — Energy aware inference engine for Autonomous systems</li> -->
+</ul>
 <i>product</i>
+<ul>
 <li><a href="https://github.com/ashworks1706/SparkyAI"><b>SparkyAI</b></a> — Web based Multi-Agent collaborative system for automating student workflows (ASU-Trusted)</li>
 <li><a href="https://github.com/ashworks1706/Doc2Mcp"><b>Doc2MCP</b></a> — Auto-MCP for converting API documentation to structured MCP server (NexHacks '26)</li>
 <!-- <li><a href="https://github.com/ashworks1706/HiveMind"><b>HiveMind</b></a> — Agentic Tutor for Zoom sessions with real-time transcript ingestion and semantic vector search (ScaleU '25)</li> -->
@@ -17,7 +20,9 @@
 <li><a href="https://devpost.com/software/safesentry"><b>SafeSentry</b></a> — React Native app with real-time firestore, geolocation tracking, & push notifs (TechXcelerate'23 Winner)</li>
 <!-- <li><a href="https://ai-pedia.ais-asu.com/"><b>AI Pedia</b></a> — Headless CMS for managing AI course materials and WiKIs (AIS)</li> -->
 <!-- <li><a href="https://github.com/ashworks1706/Edumon"><b>Edumon</b></a> — AI powered social networking platform for schools (Ctrl Hacks)</li> -->
+</ul>
 <i>workshops/tutorials</i>
+<ul>
 <li><a href="https://github.com/ashworks1706/LLM-from-scratch"><b>LLM from Scratch</b></a> — LLM Production Engineering built from fundamentals (AIS Workshop)</li>
 <li><a href="https://github.com/ashworks1706/RLHF-from-scratch"><b>RLHF from Scratch</b></a> — RLHF Engineering built from fundamentals for LLMs (100+ Stars)</li>
 </ul>
