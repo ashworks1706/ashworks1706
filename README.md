@@ -3,23 +3,23 @@
 <i>system/infra/inference</i>
 <!-- <li><a href="https://github.com/ashworks1706/zipy"><b>Zipy</b></a> — Energy aware inference engine for Autonomous systems</li> -->
 <li><a href="https://github.com/ashworks1706/piramid"><b>Piramid</b></a> — Rust-based vector database for AI retrieval, ANN queries & memory-optimized storage</li>
-<!-- <li><a href="https://github.com/ashworks1706/Helion"><b>Helion</b></a> — Edge-ML solar tracking system with scheduled long distant vision & control</li> -->
-<li><a href="https://pypi.org/project/godfather-cli/"><b>Godfather</b></a> — Dashboard+CLI for shared authenticated Pod GPU environments & automated SSH workflows (AIS Internal)</li>
-<li><a href="https://github.com/asusoda/platform"><b>Platform</b></a> — Backend platform with microservices supporting Google, Notion APIs and CI/CD workflows for productivity (SoDA)</li>
+<li><a href="https://github.com/ashworks1706/Helion"><b>Helion</b></a> — Edge ML system that tracks the sun using CV & dynamically controls motors to maximize energy efficiency</li>
+<li><a href="https://pypi.org/project/godfather-cli/"><b>Godfather</b></a> — Dashboard+CLI for shared authenticated Pod GPU environments & automated SSH workflows (AIS)</li>
+<li><a href="https://github.com/asusoda/platform"><b>Platform</b></a> — Backend platform with microservices supporting Google, Notion APIs and CI/CD workflows for productivity</li>
 <li><a href="https://github.com/ashworks1706/Kaelum"><b>Kaelum</b></a> — Reasoning agents inference with a reward model and online policy router for diversified trajectories</li>
 <i>product</i>
 <li><a href="https://github.com/ashworks1706/SparkyAI"><b>SparkyAI</b></a> — Web based Multi-Agent collaborative system for automating student workflows (ASU-Trusted)</li>
 <li><a href="https://github.com/ashworks1706/Doc2Mcp"><b>Doc2MCP</b></a> — Auto-MCP for converting API documentation to structured MCP server (NexHacks '26)</li>
 <!-- <li><a href="https://github.com/ashworks1706/HiveMind"><b>HiveMind</b></a> — Agentic Tutor for Zoom sessions with real-time transcript ingestion and semantic vector search (ScaleU '25)</li> -->
-<!-- <li><a href="https://devpost.com/software/benchmind"><b>BenchMind</b></a> — AI agent benchmarking evaluation + visualization (CalHacks S12 '25)</li> -->
+<li><a href="https://devpost.com/software/benchmind"><b>BenchMind</b></a> — Agent evaluation tool, analyzes repos, creates custom tests, & visualizes reliability, & failure modes (CalHacks S12)</li>
 <li><a href="https://github.com/ashworks1706/Decoy"><b>Decoy</b></a> — Cyber intelligence pipeline for scam detection using voice agents and classification (2x Google Hack Winner)</li>
 <!-- <li><a href="https://github.com/ashworks1706/Eve"><b>Eve</b></a> — Gemini-powered robotic arm for multimodal equipment handling (PI Automation)</li> -->
-<!-- <li><a href="https://devpost.com/software/safesentry"><b>SafeSentry</b></a> — React Native app with real-time firestore, geolocation tracking, & push notifs (TechXcelerate'23 Winner)</li> -->
+<li><a href="https://devpost.com/software/safesentry"><b>SafeSentry</b></a> — React Native app with real-time firestore, geolocation tracking, & push notifs (TechXcelerate'23 Winner)</li>
 <!-- <li><a href="https://ai-pedia.ais-asu.com/"><b>AI Pedia</b></a> — Headless CMS for managing AI course materials and WiKIs (AIS)</li> -->
 <!-- <li><a href="https://github.com/ashworks1706/Edumon"><b>Edumon</b></a> — AI powered social networking platform for schools (Ctrl Hacks)</li> -->
-<!-- <i>workshops/tutorials</i> -->
-<!-- <li><a href="https://github.com/ashworks1706/LLM-from-scratch"><b>LLM from Scratch</b></a> — LLM Production Engineering built from fundamentals (AIS Workshop)</li> -->
-<!-- <li><a href="https://github.com/ashworks1706/RLHF-from-scratch"><b>RLHF from Scratch</b></a> — RLHF Engineering built from fundamentals for LLMs (100+ Stars)</li> -->
+<i>workshops/tutorials</i>
+<li><a href="https://github.com/ashworks1706/LLM-from-scratch"><b>LLM from Scratch</b></a> — LLM Production Engineering built from fundamentals (AIS Workshop)</li>
+<li><a href="https://github.com/ashworks1706/RLHF-from-scratch"><b>RLHF from Scratch</b></a> — RLHF Engineering built from fundamentals for LLMs (100+ Stars)</li>
 </ul>
 
 <h4>Publications</h4>
