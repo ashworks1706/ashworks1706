@@ -6,7 +6,7 @@
 <li><a href="https://github.com/ashworks1706/Helion"><b>Helion</b></a> — Edge ML system that tracks the sun using CV & dynamically controls motors to maximize energy efficiency</li>
 <li><a href="https://pypi.org/project/godfather-cli/"><b>Godfather</b></a> — Dashboard+CLI for shared authenticated Pod GPU environments & automated SSH workflows (AIS)</li>
 <li><a href="https://github.com/asusoda/platform"><b>Platform</b></a> — Backend platform with microservices supporting Google, Notion APIs and CI/CD workflows for productivity</li>
-<li><a href="https://github.com/ashworks1706/Kaelum"><b>Kaelum</b></a> — Reasoning agents inference with a reward model and online policy router for diversified trajectories</li>
+<li><a href="https://github.com/ashworks1706/Kaelum"><b>Kaelum</b></a> — Bootstrapping test-time scaling for reasoning agents with online reward modeling and dynamic mixture-of-experts routing</li>
 <!-- <li><a href="https://github.com/ashworks1706/zipy"><b>Zipy</b></a> — Energy aware inference engine for Autonomous systems</li> -->
 </ul>
 <i>product</i>
