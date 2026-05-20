@@ -1,6 +1,6 @@
 <h4>Personal Projects</h4>
 
-<i>system/infra/inference</i>
+<i>infra/systems</i>
 <ul>
 <li><a href="https://github.com/ashworks1706/piramid"><b>Piramid</b></a> — Rust-based vector database for AI retrieval, ANN queries & memory-optimized storage</li>
 <li><a href="https://github.com/ashworks1706/Helion"><b>Helion</b></a> — Edge ML system that tracks the sun using CV & dynamically controls motors to maximize energy efficiency</li>
