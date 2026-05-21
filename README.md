@@ -2,7 +2,7 @@
 
 <i>infra/systems</i>
 <ul>
-<li><a href="https://github.com/ashworks1706/piramid"><b>Piramid</b></a> — Rust-based vector database for AI retrieval, ANN queries & memory-optimized storage</li>
+<li><a href="https://github.com/ashworks1706/piramid"><b>Piramid</b></a> — All in one binary for Agents, ANN queries & memory-optimized storage</li>
 <li><a href="https://github.com/ashworks1706/Helion"><b>Helion</b></a> — Edge ML system that tracks the sun using CV & dynamically controls motors to maximize energy efficiency</li>
 <li><a href="https://pypi.org/project/godfather-cli/"><b>Godfather</b></a> — Custom GPU cluster management dashboard and cli for authenticated SSH role based session access (AIS)</li>
 <li><a href="https://github.com/asusoda/platform"><b>Platform</b></a> — Backend platform with microservices supporting Google, Notion APIs and CI/CD workflows for productivity</li>
