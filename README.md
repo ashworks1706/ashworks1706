@@ -8,7 +8,7 @@
 <li><a href="https://pypi.org/project/godfather-cli/"><b>Godfather</b></a> — Custom GPU cluster management dashboard and cli for authenticated SSH role based session access (AIS)</li>
 <li><a href="https://github.com/asusoda/platform"><b>Platform</b></a> — Backend platform with microservices supporting Google, Notion APIs and CI/CD workflows for productivity</li>
 <li><a href="https://github.com/ashworks1706/Kaelum"><b>Kaelum</b></a> — Bootstrapping test-time scaling for reasoning agents with online reward modeling and dynamic MoE routing</li>
-<!-- <li><a href="https://github.com/ashworks1706/zipy"><b>Zipy</b></a> — Energy aware inference engine for Autonomous systems</li> -->
+<!-- <li><a href="https://github.com/ashworks1706/zipy"><b>Zipy</b></a> — On-device AI framework for fault tolerant and autonomous rover path planning in space systems</li> -->
 </ul>
 <i>product</i>
 <ul>
