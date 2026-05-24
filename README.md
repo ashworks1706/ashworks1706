@@ -2,7 +2,7 @@
 
 <i>infra/systems</i>
 <ul>
-<li><a href="https://github.com/ashworks1706/piramid"><b>Piramid</b></a> — All in one binary for large scale distributed model inference, retrieval & vector database</li>
+<li><a href="https://github.com/ashworks1706/piramid"><b>Piramid</b></a> — All-in-one binary for distributed model inference, retrieval, and vector search</li>
 <!-- <li><a href="https://github.com/ashworks1706/bettivo"><b>Bettivo</b></a> — Probabilistic Match forecasting on real-time data ingestion with backtesting for on policy RL model decisioning</li> -->
 <li><a href="https://github.com/ashworks1706/Helion"><b>Helion</b></a> — Edge ML system that tracks the sun using CV & dynamically controls motors to maximize energy efficiency</li>
 <li><a href="https://pypi.org/project/godfather-cli/"><b>Godfather</b></a> — Custom GPU cluster management dashboard and cli for authenticated SSH role based session access (AIS)</li>
