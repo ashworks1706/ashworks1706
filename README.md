@@ -6,7 +6,7 @@
 <!-- <li><a href="https://github.com/ashworks1706/bettivo"><b>Bettivo</b></a> — Probabilistic Match forecasting on real-time data ingestion with backtesting for on policy RL model decisioning</li> -->
 <li><a href="https://github.com/ashworks1706/Helion"><b>Helion</b></a> — Edge ML system that tracks the sun using CV & dynamically controls motors to maximize energy efficiency</li>
 <li><a href="https://pypi.org/project/godfather-cli/"><b>Godfather</b></a> — Custom GPU cluster management dashboard and cli for authenticated SSH role based session access (AIS)</li>
-<li><a href="https://github.com/asusoda/platform"><b>Platform</b></a> — Backend platform with microservices supporting Google, Notion APIs and CI/CD workflows for productivity</li>
+<li><a href="https://github.com/asusoda/platform"><b>Platform</b></a> — Backend platform with microservices supporting Google, Notion APIs and CI/CD workflows for productivity (SoDA)</li>
 <li><a href="https://github.com/ashworks1706/Kaelum"><b>Kaelum</b></a> — Bootstrapping test-time scaling for reasoning agents with online reward modeling and dynamic MoE routing</li>
 <!-- <li><a href="https://github.com/ashworks1706/zipy"><b>Zipy</b></a> — On-device AI framework for fault tolerant and autonomous rover path planning in space systems</li> -->
 </ul>
