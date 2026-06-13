@@ -24,8 +24,10 @@
 </ul>
 <i>workshops/tutorials</i>
 <ul>
-<li><a href="https://github.com/ashworks1706/LLM-from-scratch"><b>LLM from Scratch</b></a> — LLM Production Engineering built from fundamentals (AIS Workshop)</li>
 <li><a href="https://github.com/ashworks1706/RLHF-from-scratch"><b>RLHF from Scratch</b></a> — RLHF Engineering built from fundamentals for LLMs (100+ Stars)</li>
+<li><a href="https://github.com/ashworks1706/LLM-from-scratch"><b>LLM from Scratch</b></a> — LLM Production Engineering built from fundamentals (AIS Workshop)</li>
+<!-- <li><a href="https://github.com/ashworks1706/world-models-from-scratch"><b>World Models from Scratch</b></a> — world models built from fundamentals (AIS Workshop)</li>
+<li><a href="https://github.com/ashworks1706/diffusion-from-scratch"><b>Diffusion from Scratch</b></a> — diffusion models built from fundamentals (AIS Workshop)</li> -->
 </ul>
 
 <h4>Publications</h4>
