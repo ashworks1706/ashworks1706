@@ -31,9 +31,9 @@
 <li><a href="https://github.com/ashworks1706/diffusion-from-scratch"><b>Diffusion from Scratch</b></a> — diffusion models built from fundamentals (AIS Workshop)</li> -->
 </ul>
 
-<h4>Publications</h4>
+<!-- <h4>Publications</h4>
 <ul>
-<li>Risk-Sensitive Forward Modeling for Delayed Teleoperation Using Cumulative Prospect Theory (inprog @ RISE)</li>
+<li>Risk-Sensitive Forward Modeling for Delayed Teleoperation Using Cumulative Prospect Theory (inprog @ RISE)</li> -->
 <!-- <li>Resource-Constrained Latent Reasoning in Large Language Models (inprog @ ARC)</li> -->
 </ul> 
 
