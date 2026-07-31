@@ -1,17 +1,17 @@
 <h4>Personal Projects</h4>
 
-<i>infra/systems</i>
+<i>latest</i>
 <ul>
 <li><a href="https://github.com/ashworks1706/piramid"><b>Piramid</b></a> — All-in-one binary for distributed model inference, retrieval, and vector search</li>
 <!-- <li><a href="https://github.com/ashworks1706/bettivo"><b>Bettivo</b></a> — Probabilistic Match forecasting on real-time data ingestion with backtesting for on policy RL model decisioning</li> -->
-<li><a href="https://github.com/ashworks1706/Helion"><b>Helion</b></a> — Edge ML system that tracks the sun using CV & dynamically controls motors to maximize energy efficiency</li>
 <li><a href="https://pypi.org/project/godfather-cli/"><b>Godfather</b></a> — Custom GPU cluster management dashboard and cli for authenticated SSH role based session access (AIS)</li>
 <li><a href="https://github.com/asusoda/platform"><b>Platform</b></a> — Backend platform microservices supporting Google, Notion APIs and CI/CD workflows for productivity (SoDA)</li>
 <li><a href="https://github.com/ashworks1706/Kaelum"><b>Kaelum</b></a> — Bootstrapping test-time scaling for reasoning agents with online reward modeling and dynamic MoE routing</li>
 <!-- <li><a href="https://github.com/ashworks1706/zipy"><b>Zipy</b></a> — On-device AI framework for fault tolerant and autonomous rover path planning in space systems</li> -->
 </ul>
-<i>product</i>
+<i>legacy</i>
 <ul>
+<li><a href="https://github.com/ashworks1706/Helion"><b>Helion</b></a> — Edge ML system that tracks the sun using CV & dynamically controls motors to maximize energy efficiency</li>
 <li><a href="https://github.com/ashworks1706/SparkyAI"><b>SparkyAI</b></a> — Web based Multi-Agent collaborative system for automating student workflows (ASU-Trusted)</li>
 <!-- <li><a href="https://github.com/ashworks1706/Doc2Mcp"><b>Doc2MCP</b></a> — Auto-MCP for converting API documentation to structured MCP server (NexHacks '26)</li> -->
 <!-- <li><a href="https://github.com/ashworks1706/HiveMind"><b>HiveMind</b></a> — Agentic Tutor for Zoom sessions with real-time transcript ingestion and semantic vector search (ScaleU '25)</li> -->
