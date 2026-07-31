@@ -1,6 +1,6 @@
 <h4>Personal Projects</h4>
 
-<i>latest</i>
+<i>recent</i>
 <ul>
 <li><a href="https://github.com/ashworks1706/piramid"><b>Piramid</b></a> — All-in-one binary for distributed model inference, retrieval, and vector search</li>
 <!-- <li><a href="https://github.com/ashworks1706/bettivo"><b>Bettivo</b></a> — Probabilistic Match forecasting on real-time data ingestion with backtesting for on policy RL model decisioning</li> -->
