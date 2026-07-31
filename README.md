@@ -11,12 +11,12 @@
 </ul>
 <i>legacy</i>
 <ul>
-<li><a href="https://github.com/ashworks1706/Helion"><b>Helion</b></a> — Edge ML system that tracks the sun using CV & dynamically controls motors to maximize energy efficiency</li>
 <li><a href="https://github.com/ashworks1706/SparkyAI"><b>SparkyAI</b></a> — Multi-Agent collaborative system for automating student workflows (ASU-Trusted)</li>
+<li><a href="https://github.com/ashworks1706/Decoy"><b>Decoy</b></a> — Cyber intelligence pipeline for scam detection using voice agents and classification (2x Google Hack Winner)</li>
+<li><a href="https://github.com/ashworks1706/Helion"><b>Helion</b></a> — Edge ML system that tracks the sun using CV & dynamically controls motors to maximize energy efficiency</li>
 <!-- <li><a href="https://github.com/ashworks1706/Doc2Mcp"><b>Doc2MCP</b></a> — Auto-MCP for converting API documentation to structured MCP server (NexHacks '26)</li> -->
 <!-- <li><a href="https://github.com/ashworks1706/HiveMind"><b>HiveMind</b></a> — Agentic Tutor for Zoom sessions with real-time transcript ingestion and semantic vector search (ScaleU '25)</li> -->
 <li><a href="https://devpost.com/software/benchmind"><b>BenchMind</b></a> — Agent evaluation tool, analyzes repos, creates custom tests, & visualizes reliability, & failure modes</li>
-<li><a href="https://github.com/ashworks1706/Decoy"><b>Decoy</b></a> — Cyber intelligence pipeline for scam detection using voice agents and classification (2x Google Hack Winner)</li>
 <!-- <li><a href="https://github.com/ashworks1706/Eve"><b>Eve</b></a> — Gemini-powered robotic arm for multimodal equipment handling (PI Automation)</li> -->
 <!-- <li><a href="https://devpost.com/software/safesentry"><b>SafeSentry</b></a> — React Native app with real-time firestore, geolocation tracking, & push notifs (TechXcelerate'23 Winner)</li> -->
 <!-- <li><a href="https://ai-pedia.ais-asu.com/"><b>AI Pedia</b></a> — Headless CMS for managing AI course materials and WiKIs (AIS)</li> -->
