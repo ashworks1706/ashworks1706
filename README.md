@@ -4,15 +4,15 @@
 <ul>
 <li><a href="https://github.com/ashworks1706/piramid"><b>Piramid</b></a> — All-in-one binary for distributed model inference, retrieval, and vector search</li>
 <!-- <li><a href="https://github.com/ashworks1706/bettivo"><b>Bettivo</b></a> — Probabilistic Match forecasting on real-time data ingestion with backtesting for on policy RL model decisioning</li> -->
-<li><a href="https://pypi.org/project/godfather-cli/"><b>Godfather</b></a> — Custom GPU cluster management dashboard and cli for authenticated SSH role based session access (AIS)</li>
-<li><a href="https://github.com/asusoda/platform"><b>Platform</b></a> — Backend platform microservices supporting Google, Notion APIs and CI/CD workflows for productivity (SoDA)</li>
+<li><a href="https://pypi.org/project/godfather-cli/"><b>Godfather</b></a> — Custom GPU cluster management dashboard and cli for authenticated SSH role based session access</li>
+<li><a href="https://github.com/asusoda/platform"><b>Platform</b></a> — Backend platform microservices supporting Google, Notion APIs and CI/CD workflows for productivity</li>
 <li><a href="https://github.com/ashworks1706/Kaelum"><b>Kaelum</b></a> — Bootstrapping test-time scaling for reasoning agents with online reward modeling and dynamic MoE routing</li>
 <!-- <li><a href="https://github.com/ashworks1706/zipy"><b>Zipy</b></a> — On-device AI framework for fault tolerant and autonomous rover path planning in space systems</li> -->
 </ul>
 <i>legacy</i>
 <ul>
-<li><a href="https://github.com/ashworks1706/SparkyAI"><b>SparkyAI</b></a> — Multi-Agent collaborative system for automating student workflows (ASU-Trusted)</li>
-<li><a href="https://github.com/ashworks1706/Decoy"><b>Decoy</b></a> — Cyber intelligence pipeline for scam detection using voice agents and classification (2x Google Hack Winner)</li>
+<li><a href="https://github.com/ashworks1706/SparkyAI"><b>SparkyAI</b></a> — Multi-Agent collaborative system for automating student workflows</li>
+<li><a href="https://github.com/ashworks1706/Decoy"><b>Decoy</b></a> — Cyber intelligence pipeline for scam detection using voice agents and classification</li>
 <li><a href="https://github.com/ashworks1706/Helion"><b>Helion</b></a> — Edge ML system that tracks the sun using CV & dynamically controls motors to maximize energy efficiency</li>
 <!-- <li><a href="https://github.com/ashworks1706/Doc2Mcp"><b>Doc2MCP</b></a> — Auto-MCP for converting API documentation to structured MCP server (NexHacks '26)</li> -->
 <!-- <li><a href="https://github.com/ashworks1706/HiveMind"><b>HiveMind</b></a> — Agentic Tutor for Zoom sessions with real-time transcript ingestion and semantic vector search (ScaleU '25)</li> -->
@@ -24,9 +24,9 @@
 </ul>
 <i>workshops/tutorials</i>
 <ul>
-<li><a href="https://github.com/ashworks1706/RLHF-from-scratch"><b>RLHF from Scratch</b></a> — RLHF Engineering built from fundamentals for LLMs (100+ Stars)</li>
-<li><a href="https://github.com/ashworks1706/LLM-from-scratch"><b>LLM from Scratch</b></a> — LLM Production Engineering built from fundamentals (AIS Workshop)</li>
-<li><a href="https://github.com/ashworks1706/agents-from-scratch"><b>Agents from Scratch</b></a> — Agents and RAG built from fundamentals (AIS Workshop)</li>
+<li><a href="https://github.com/ashworks1706/RLHF-from-scratch"><b>RLHF from Scratch</b></a> — RLHF Engineering built from fundamentals for LLMs</li>
+<li><a href="https://github.com/ashworks1706/LLM-from-scratch"><b>LLM from Scratch</b></a> — LLM Production Engineering built from fundamentals</li>
+<li><a href="https://github.com/ashworks1706/agents-from-scratch"><b>Agents from Scratch</b></a> — Agents and RAG built from fundamentals</li>
 <!-- <li><a href="https://github.com/ashworks1706/world-models-from-scratch"><b>World Models from Scratch</b></a> — world models built from fundamentals (AIS Workshop)</li>
 <li><a href="https://github.com/ashworks1706/diffusion-from-scratch"><b>Diffusion from Scratch</b></a> — diffusion models built from fundamentals (AIS Workshop)</li> -->
 </ul>
