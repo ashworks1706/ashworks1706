@@ -1,4 +1,3 @@
-<h4>Personal Projects</h4>
 
 <i>recent</i>
 <ul>
