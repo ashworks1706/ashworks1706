@@ -15,7 +15,7 @@
 <li><a href="https://github.com/ashworks1706/Helion"><b>Helion</b></a> — yolo that tracks the sun using CV & dynamically controls motors to maximize energy efficiency</li>
 <!-- <li><a href="https://github.com/ashworks1706/Doc2Mcp"><b>Doc2MCP</b></a> — Auto-MCP for converting API documentation to structured MCP server (NexHacks '26)</li> -->
 <!-- <li><a href="https://github.com/ashworks1706/HiveMind"><b>HiveMind</b></a> — Agentic Tutor for Zoom sessions with real-time transcript ingestion and semantic vector search (ScaleU '25)</li> -->
-<li><a href="https://devpost.com/software/benchmind"><b>BenchMind</b></a> — Agent evaluation tool, analyzes repos, creates custom tests, & visualizes reliability, & failure modes</li>
+<li><a href="https://devpost.com/software/benchmind"><b>BenchMind</b></a> — agent evaluation tool, analyzes repos, creates custom tests, & visualizes reliability, & failure modes</li>
 <!-- <li><a href="https://github.com/ashworks1706/Eve"><b>Eve</b></a> — Gemini-powered robotic arm for multimodal equipment handling (PI Automation)</li> -->
 <!-- <li><a href="https://devpost.com/software/safesentry"><b>SafeSentry</b></a> — React Native app with real-time firestore, geolocation tracking, & push notifs (TechXcelerate'23 Winner)</li> -->
 <!-- <li><a href="https://ai-pedia.ais-asu.com/"><b>AI Pedia</b></a> — Headless CMS for managing AI course materials and WiKIs (AIS)</li> -->
@@ -25,7 +25,7 @@
 <ul>
 <li><a href="https://github.com/ashworks1706/RLHF-from-scratch"><b>RLHF from Scratch</b></a> — rl stuff for llms</li>
 <li><a href="https://github.com/ashworks1706/LLM-from-scratch"><b>LLM from Scratch</b></a> — all my llm learning stuff</li>
-<li><a href="https://github.com/ashworks1706/agents-from-scratch"><b>Agents from Scratch</b></a> — rag stuff</li>
+<!-- <li><a href="https://github.com/ashworks1706/agents-from-scratch"><b>Agents from Scratch</b></a> — rag stuff</li> -->
 <!-- <li><a href="https://github.com/ashworks1706/world-models-from-scratch"><b>World Models from Scratch</b></a> — world models built from fundamentals (AIS Workshop)</li>
 <li><a href="https://github.com/ashworks1706/diffusion-from-scratch"><b>Diffusion from Scratch</b></a> — diffusion models built from fundamentals (AIS Workshop)</li> -->
 </ul>
