@@ -1,7 +1,7 @@
 
 <i>recent</i>
 <ul>
-<li><a href="https://github.com/ashworks1706/piramid"><b>Piramid</b></a> — unified binary for scaled model inference, retrieval, and vector search</li>
+<li><a href="https://github.com/ashworks1706/piramid"><b>Piramid</b></a> — serve models within vector db -- inference engine for rag</li>
 <!-- <li><a href="https://github.com/ashworks1706/bettivo"><b>Bettivo</b></a> — Probabilistic Match forecasting on real-time data ingestion with backtesting for on policy RL model decisioning</li> -->
 <li><a href="https://pypi.org/project/godfather-cli/"><b>Godfather</b></a> — admin gpu pods management suite to give compute access for members via cli</li>
 <li><a href="https://github.com/asusoda/platform"><b>Platform</b></a> — modular repo w microservices supporting Google, Notion APIs and CI/CD workflows for productivity</li>
