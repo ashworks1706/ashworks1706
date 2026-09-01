@@ -4,13 +4,13 @@
 <li><a href="https://github.com/ashworks1706/piramid"><b>Piramid</b></a> — serve models within vector db -- inference engine for rag</li>
 <li><a href="https://github.com/ashworks1706/SparkyAI"><b>SparkyAI</b></a> — agents for university faculty and student services</li>
 <!-- <li><a href="https://github.com/ashworks1706/bettivo"><b>Bettivo</b></a> — Probabilistic Match forecasting on real-time data ingestion with backtesting for on policy RL model decisioning</li> -->
-<li><a href="https://github.com/asusoda/platform"><b>Platform</b></a> — modular repo w microservices supporting Google, Notion APIs and CI/CD workflows for productivity</li>
-<li><a href="https://github.com/ashworks1706/Kaelum"><b>Kaelum</b></a> — bootstrapped test-time scaling for efficient reasoning with rewards and routing</li>
-<li><a href="https://pypi.org/project/godfather-cli/"><b>Godfather</b></a> — admin gpu pods management suite to give compute access for members via cli</li>
 <!-- <li><a href="https://github.com/ashworks1706/zipy"><b>Zipy</b></a> — On-device AI framework for fault tolerant and autonomous rover path planning in space systems</li> -->
 </ul>
 <i>legacy</i>
 <ul>
+<li><a href="https://github.com/asusoda/platform"><b>Platform</b></a> — modular repo w microservices supporting Google, Notion APIs and CI/CD workflows for productivity</li>
+<li><a href="https://github.com/ashworks1706/Kaelum"><b>Kaelum</b></a> — bootstrapped test-time scaling for efficient reasoning with rewards and routing</li>
+<li><a href="https://pypi.org/project/godfather-cli/"><b>Godfather</b></a> — admin gpu pods management suite to give compute access for members via cli</li>
 <li><a href="https://ai-pedia.ais-asu.com/"><b>AI Pedia</b></a> — Headless CMS for managing AI course materials and WiKIs (AIS)</li>
 <li><a href="https://github.com/ashworks1706/Decoy"><b>Decoy</b></a> — voice agents to reverse engineer scammers</li>
 <li><a href="https://github.com/ashworks1706/Helion"><b>Helion</b></a> — yolo that tracks the sun using CV & dynamically controls motors to maximize energy efficiency</li>
