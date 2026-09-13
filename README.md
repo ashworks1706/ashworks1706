@@ -2,7 +2,7 @@
 <i>recent</i>
 <ul>
 <li><a href="https://github.com/ashworks1706/piramid"><b>Piramid</b></a> — serve models within vector db -- inference engine for rag</li>
-<li><a href="https://github.com/ashworks1706/SparkyAI"><b>SparkyAI</b></a> — agents for university faculty and student services</li>
+<li><a href="https://github.com/ashworks1706/SparkyAI"><b>SparkyAI</b></a> — agents for university students</li>
 <!-- <li><a href="https://github.com/ashworks1706/bettivo"><b>Bettivo</b></a> — Probabilistic Match forecasting on real-time data ingestion with backtesting for on policy RL model decisioning</li> -->
 <!-- <li><a href="https://github.com/ashworks1706/zipy"><b>Zipy</b></a> — On-device AI framework for fault tolerant and autonomous rover path planning in space systems</li> -->
 </ul>
