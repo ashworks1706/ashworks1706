@@ -6,7 +6,7 @@
 <!-- <li><a href="https://github.com/ashworks1706/bettivo"><b>Bettivo</b></a> — Probabilistic Match forecasting on real-time data ingestion with backtesting for on policy RL model decisioning</li> -->
 <!-- <li><a href="https://github.com/Trifectron/bijou"><b>Bijou</b></a> — diffusion harness</li> -->
 <!-- <li><a href="https://github.com/ARC-ASU/Liar"><b></b></a> — extension for detecting sycophancy effects in coding agents</li> -->
-<!-- <li><a href="https://github.com/ashworks1706/zipy"><b>Zipy</b></a> — agents for automating org wide workflow</li> -->
+<li><a href="https://github.com/ashworks1706/zipy"><b>Zipy</b></a> — agents for automating org wide workflow</li>
 </ul>
 <i>legacy</i>
 <ul>
