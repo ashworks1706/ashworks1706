@@ -1,7 +1,7 @@
 
 <i>recent</i>
 <ul>
-<li><a href="https://github.com/ashworks1706/piramid"><b>Piramid</b></a> — serve models within vector db -- inference engine for rag</li>
+<li><a href="https://github.com/ashworks1706/piramid"><b>Piramid</b></a> — designing infinite context for llms</li>
 <li><a href="https://github.com/ashworks1706/SparkyAI"><b>SparkyAI</b></a> — assistive agent for university students</li>
 <li><a href="https://github.com/ashworks1706/zipy"><b>Zipy</b></a> — agents for automating team logistics</li>
 <!-- <li><a href="https://github.com/ashworks1706/bettivo"><b>Bettivo</b></a> — Probabilistic Match forecasting on real-time data ingestion with backtesting for on policy RL model decisioning</li> -->
