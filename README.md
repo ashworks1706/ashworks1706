@@ -2,7 +2,7 @@
 <i>recent</i>
 <ul>
 <li><a href="https://github.com/ashworks1706/piramid"><b>Piramid</b></a> — rag based attention -- infinite context for llms</li>
-<li><a href="https://github.com/ashworks1706/Sparky"><b>SparkyAI</b></a> — assistive agent for university students</li>
+<li><a href="https://github.com/ashworks1706/SparkyAI"><b>Sparky</b></a> — assistive agent for university students</li>
 <li><a href="https://github.com/ashworks1706/zipy"><b>Zipy</b></a> — multi-agents for automating team logistics</li>
 <!-- <li><a href="https://github.com/ashworks1706/bettivo"><b>Bettivo</b></a> — Probabilistic Match forecasting on real-time data ingestion with backtesting for on policy RL model decisioning</li> -->
 <li><a href="https://github.com/Trifectron/bijou"><b>Bijou</b></a> — cheap models more modular and adaptive to domain tasks</li>
