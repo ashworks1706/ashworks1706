@@ -27,7 +27,7 @@
 <ul>
 <li><a href="https://github.com/ashworks1706/RLHF-from-scratch"><b>RLHF from Scratch</b></a> — rl stuff for llms</li>
 <li><a href="https://github.com/ashworks1706/LLM-from-scratch"><b>LLM from Scratch</b></a> — all my llm learning stuff</li>
-<li><a href="https://github.com/ashworks1706/agents-from-scratch"><b>Agents from Scratch</b></a> — rag stuff</li>
+<li><a href="https://github.com/ashworks1706/agents-rag-from-scratch"><b>Agents from Scratch</b></a> — rag stuff</li>
 <!-- <li><a href="https://github.com/ashworks1706/world-models-from-scratch"><b>World Models from Scratch</b></a> — world models built from fundamentals (AIS Workshop)</li>
 <li><a href="https://github.com/ashworks1706/diffusion-from-scratch"><b>Diffusion from Scratch</b></a> — diffusion models built from fundamentals (AIS Workshop)</li> -->
 </ul>
