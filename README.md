@@ -11,8 +11,8 @@
 <i>legacy</i>
 <ul>
 <li><a href="https://github.com/asusoda/platform"><b>Platform</b></a> — modular repo w microservices supporting Google, Notion APIs and CI/CD workflows for productivity</li>
-<li><a href="https://github.com/ashworks1706/Kaelum"><b>Kaelum</b></a> — Test-time REINFORCE scaling for efficient reasoning with PRM and routing</li>
-<li><a href="https://pypi.org/project/godfather-cli/"><b>Godfather</b></a> — admin gpu pods management suite to give compute access for members via cli</li>
+<!-- <li><a href="https://github.com/ashworks1706/Kaelum"><b>Kaelum</b></a> — Test-time REINFORCE scaling for efficient reasoning with PRM and routing</li> -->
+<!-- <li><a href="https://pypi.org/project/godfather-cli/"><b>Godfather</b></a> — admin gpu pods management suite to give compute access for members via cli</li> -->
 <li><a href="https://ai-pedia.ais-asu.com/"><b>AI Pedia </b></a> / <b> <a href="https://github.com/asusoda/asu-cs-wiki">CS WiKI</b></a> — Headless CMS for managing course materials and WiKIs</li>
 <li><a href="https://github.com/ashworks1706/Decoy"><b>Decoy</b></a> — voice agents to reverse engineer scammers</li>
 <!-- <li><a href="https://github.com/ashworks1706/Helion"><b>Helion</b></a> — yolo that tracks the sun using CV & dynamically controls motors to maximize energy efficiency</li> -->
