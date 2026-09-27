@@ -5,8 +5,8 @@
 <li><a href="https://github.com/ashworks1706/SparkyAI"><b>Sparky</b></a> — assistive agent for university students</li>
 <!-- <li><a href="https://github.com/ashworks1706/zipy"><b>Zipy</b></a> — cheap models more modular and adaptive to domain tasks</li> -->
 <!-- <li><a href="https://github.com/ashworks1706/loupe"><b>Loupe</b></a> — research testbed for large language models</li> -->
-<!-- <li><a href="https://github.com/ashworks1706/bettivo"><b>Bettivo</b></a> — Probabilistic Match forecasting on real-time data ingestion with backtesting for on policy RL model decisioning</li> -->
 <!-- <li><a href="https://github.com/ARC-ASU/Liar"><b></b></a> — extension for detecting sycophancy effects in coding agents</li> -->
+<!-- <li><a href="https://github.com/ashworks1706/bettivo"><b>Bettivo</b></a> — Probabilistic Match forecasting on real-time data ingestion with backtesting for on policy RL model decisioning</li> -->
 </ul>
 <i>legacy</i>
 <ul>
