@@ -8,13 +8,13 @@
 <!-- <li><a href="https://github.com/ARC-ASU/Liar"><b></b></a> — extension for detecting sycophancy effects in coding agents</li> -->
 <!-- <li><a href="https://github.com/ashworks1706/bettivo"><b>Bettivo</b></a> — Probabilistic Match forecasting on real-time data ingestion with backtesting for on policy RL model decisioning</li> -->
 </ul>
-<i>legacy</i>
+<i>shipped</i>
 <ul>
 <li><a href="https://github.com/asusoda/platform"><b>Platform</b></a> — modular repo w microservices supporting Google, Notion APIs and CI/CD workflows for productivity</li>
-<!-- <li><a href="https://github.com/ashworks1706/Kaelum"><b>Kaelum</b></a> — Test-time REINFORCE scaling for efficient reasoning with PRM and routing</li> -->
-<!-- <li><a href="https://pypi.org/project/godfather-cli/"><b>Godfather</b></a> — admin gpu pods management suite to give compute access for members via cli</li> -->
+<li><a href="https://github.com/ashworks1706/Kaelum"><b>Kaelum</b></a> — Test-time REINFORCE scaling for efficient reasoning with PRM and routing</li>
+<li><a href="https://pypi.org/project/godfather-cli/"><b>Godfather</b></a> — admin gpu pods management suite to give compute access for members via cli</li>
 <li><a href="https://ai-pedia.ais-asu.com/"><b>AI Pedia </b></a> / <b> <a href="https://github.com/asusoda/asu-cs-wiki">CS WiKI</b></a> — Headless CMS for managing course materials and WiKIs</li>
-<li><a href="https://github.com/ashworks1706/Decoy"><b>Decoy</b></a> — voice agents to reverse engineer scammers</li>
+<!-- <li><a href="https://github.com/ashworks1706/Decoy"><b>Decoy</b></a> — voice agents to reverse engineer scammers</li> -->
 <!-- <li><a href="https://github.com/ashworks1706/Helion"><b>Helion</b></a> — yolo that tracks the sun using CV & dynamically controls motors to maximize energy efficiency</li> -->
 <!-- <li><a href="https://github.com/ashworks1706/Doc2Mcp"><b>Doc2MCP</b></a> — Auto-MCP for converting API documentation to structured MCP server (NexHacks '26)</li> -->
 <!-- <li><a href="https://devpost.com/software/benchmind"><b>BenchMind</b></a> — agent evaluation tool, analyzes repos, creates custom tests, & visualizes reliability, & failure modes</li> -->
