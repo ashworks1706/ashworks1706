@@ -16,7 +16,7 @@
 <li><a href="https://ai-pedia.ais-asu.com/"><b>AI Pedia </b></a> / <b> <a href="https://github.com/asusoda/asu-cs-wiki">CS WiKI</b></a> — Headless CMS for managing course materials and WiKIs</li>
 <!-- <li><a href="https://github.com/ashworks1706/Decoy"><b>Decoy</b></a> — voice agents to reverse engineer scammers</li> -->
 <li><a href="https://github.com/ashworks1706/Helion"><b>Helion</b></a> — yolo that tracks the sun using CV & dynamically controls motors to maximize energy efficiency</li>
-<li><a href="https://github.com/ashworks1706/Doc2Mcp"><b>Doc2MCP</b></a> — Auto-MCP for converting API documentation to structured MCP server (NexHacks '26)</li>
+<li><a href="https://github.com/ashworks1706/Doc2Mcp"><b>Doc2MCP</b></a> — convert legacy API docs to structured MCP server</li>
 <!-- <li><a href="https://devpost.com/software/benchmind"><b>BenchMind</b></a> — agent evaluation tool, analyzes repos, creates custom tests, & visualizes reliability, & failure modes</li> -->
 </ul>
 <i>workshops/tutorials</i>
