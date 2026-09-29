@@ -2,7 +2,7 @@
 <i>recent</i>
 <ul>
 <li><a href="https://github.com/ashworks1706/piramid"><b>Piramid</b></a> — rag based attention -- infinite context for llms</li>
-
+<li><a href="https://github.com/ashworks1706/SparkyAI"><b>Sparky</b></a> — assistive agent for university students</li>
 <!-- <li><a href="https://github.com/ashworks1706/zipy"><b>Zipy</b></a> — cheap models more modular and adaptive to domain tasks</li> -->
 <!-- <li><a href="https://github.com/ashworks1706/loupe"><b>Loupe</b></a> — research testbed for large language models</li> -->
 <!-- <li><a href="https://github.com/ARC-ASU/Liar"><b></b></a> — extension for detecting sycophancy effects in coding agents</li> -->
@@ -10,7 +10,6 @@
 <i>shipped</i>
 <ul>
 <!-- <li><a href="https://github.com/ashworks1706/bettivo"><b>Bettivo</b></a> — Probabilistic Match forecasting on real-time data ingestion with backtesting for on policy RL model decisioning</li> -->
-<li><a href="https://github.com/ashworks1706/SparkyAI"><b>Sparky</b></a> — assistive agent for university students</li>
 <li><a href="https://github.com/asusoda/platform"><b>Platform</b></a> — infra for student orgs </li>
 <!-- <li><a href="https://github.com/ashworks1706/Kaelum"><b>Kaelum</b></a> — Test-time REINFORCE scaling for efficient reasoning with PRM and routing</li> -->
 <li><a href="https://pypi.org/project/godfather-cli/"><b>Godfather</b></a> — authorized compute for asu students</li>
