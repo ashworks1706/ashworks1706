@@ -1,7 +1,7 @@
 
 <i>recent</i>
 <ul>
-<li><a href="https://github.com/ashworks1706/piramid"><b>Piramid</b></a> — rag based attention -- infinite context for llms</li>
+<li><a href="https://github.com/ashworks1706/piramid"><b>Piramid</b></a> —  tackling long context attention in llms</li>
 <li><a href="https://github.com/ashworks1706/SparkyAI"><b>Sparky</b></a> — assistive agent for university students</li>
 <!-- <li><a href="https://github.com/ashworks1706/zipy"><b>Zipy</b></a> — cheap models more modular and adaptive to domain tasks</li> -->
 <!-- <li><a href="https://github.com/ashworks1706/loupe"><b>Loupe</b></a> — research testbed for large language models</li> -->
