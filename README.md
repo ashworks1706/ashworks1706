@@ -7,7 +7,7 @@ Currently at [Product Studio](https://product.studio/) on human to agent interac
 - [louped](https://github.com/ashworks1706/louped) — workbench for model experiments and evaluation
 - [godfather](https://github.com/theaisocietyasu/godfather) — GPU compute access for ASU students
 - [sparky](https://github.com/ashworks1706/SparkyAI) — assistive agent for university students
-- [platform](https://github.com/asusoda/platform) — contributed authentication and backend APIs for student orgs
+- [platform](https://github.com/asusoda/platform) — infra for student orgs
 
 <ul>
 </ul>
