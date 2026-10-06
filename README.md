@@ -4,25 +4,25 @@ Currently at [Product Studio](https://product.studio/) on human to agent interac
 *[recent projects
 ](https://www.machinebrains.studio/)*
 
-<ul>
+<!-- <ul>
 </ul>
-<!-- <i>shipped</i> -->
+ <i>shipped</i> 
 <ul>
-<!-- <li><a href="https://github.com/ashworks1706/Kaelum"><b>Kaelum</b></a> — Test-time REINFORCE scaling for efficient reasoning with PRM and routing</li> -->
-<!-- <li><a href="https://github.com/asusoda/asu-cs-wiki">CS WiKI</b></a> — Headless CMS for managing course materials and WiKIs</li> -->
-<!-- <li><a href="https://github.com/ashworks1706/Decoy"><b>Decoy</b></a> — voice agents to reverse engineer</li> --> 
-<!-- <li><a href="https://github.com/ashworks1706/Doc2Mcp"><b>Doc2MCP</b></a> — convert legacy API docs to structured MCP server</li> -->
+ <li><a href="https://github.com/ashworks1706/Kaelum"><b>Kaelum</b></a> — Test-time REINFORCE scaling for efficient reasoning with PRM and routing</li> 
+ <li><a href="https://github.com/asusoda/asu-cs-wiki">CS WiKI</b></a> — Headless CMS for managing course materials and WiKIs</li> 
+ <li><a href="https://github.com/ashworks1706/Decoy"><b>Decoy</b></a> — voice agents to reverse engineer</li>  
+ <li><a href="https://github.com/ashworks1706/Doc2Mcp"><b>Doc2MCP</b></a> — convert legacy API docs to structured MCP server</li> 
 </ul>
-<!-- <i>workshops/tutorials</i> -->
+ <i>workshops/tutorials</i> 
 <ul>
-<!-- <li><a href="https://github.com/ashworks1706/RLHF-from-scratch"><b>RLHF from Scratch</b></a> — rl stuff for llms</li>
-<!-- <li><a href="https://github.com/ashworks1706/world-models-from-scratch"><b>World Models from Scratch</b></a> — world models built from fundamentals (AIS Workshop)</li>
-<li><a href="https://github.com/ashworks1706/inference-from-scratch"><b>Inference from Scratch</b></a> — inference engineering built from fundamentals (AIS Workshop)</li> -->
+<li><a href="https://github.com/ashworks1706/RLHF-from-scratch"><b>RLHF from Scratch</b></a> — rl stuff for llms</li>
+<li><a href="https://github.com/ashworks1706/world-models-from-scratch"><b>World Models from Scratch</b></a> — world models built from fundamentals (AIS Workshop)</li>
+<li><a href="https://github.com/ashworks1706/inference-from-scratch"><b>Inference from Scratch</b></a> — inference engineering built from fundamentals (AIS Workshop)</li> 
 </ul>
 
 </ul> 
 
-<!-- <h3>Wins</h3>
+ <h3>Wins</h3>
 <ul>
 <li><a href="https://tech.asu.edu/sparkchallenge">Google Cyber 360 Spark Challenge '25</a></li>
 <li><a href="https://tech.asu.edu/sparkchallenge">Zoom Campus Impact Spark Challenge '25</a></li>
@@ -30,4 +30,4 @@ Currently at [Product Studio](https://product.studio/) on human to agent interac
 <li><a href="https://codeday.sh/insafe/">International Codeday '24 Hackathon</a></li>
 <li><a href="https://techxcelerate.devpost.com/">TechXcelerate '23 Hackathon</a></li>
 <li><a href="https://happyhacks1.devpost.com/">International Happy Hacks 1 '23 Hackathon</a></li>
-</ul> -->
+</ul>  -->
