@@ -1,44 +1,31 @@
+CS at Arizona State. Working on model behavior and efficient inference.
+Currently at [Product Studio](https://product.studio/) on human to agent interaction, and researching model behavior at [ARC Lab](https://arc-asu.github.io/).
 
-<i><a href="https://machinebrains.studio">recent</a></i>
+- [piramid](https://github.com/ashworks1706/piramid) — inference runtime for retrieval systems
+- [louped](https://github.com/ashworks1706/louped) — workbench for model experiments and evaluation
+- [godfather](https://github.com/theaisocietyasu/godfather) — GPU compute access for ASU students
+- [sparky](https://github.com/ashworks1706/SparkyAI) — assistive agent for university students
+- [platform](https://github.com/asusoda/platform) — contributed authentication and backend APIs for student orgs
+
+[website](https://ashworks.dev/) · [research & projects](https://www.machinebrains.studio/) · [email](mailto:ashworks1706@gmail.com)
+
 <ul>
-<!-- <li><a href="https://github.com/ashworks1706/piramid"><b>Piramid</b></a> —  tackling long context attention in llms</li>
-<li><a href="https://github.com/ashworks1706/SparkyAI"><b>Sparky</b></a> — assistive agent for university students</li> -->
-<!-- <li><a href="https://github.com/ashworks1706/zipy"><b>Zipy</b></a> — cheap models more modular and adaptive to domain tasks</li> -->
-<!-- <li><a href="https://github.com/ashworks1706/louped"><b>Louped</b></a> — research testbed for large language models</li> -->
-<!-- <li><a href="https://github.com/ARC-ASU/Liar"><b></b></a> — extension for detecting sycophancy effects in coding agents</li> -->
 </ul>
 <!-- <i>shipped</i> -->
 <ul>
-<!-- <li><a href="https://github.com/ashworks1706/bettivo"><b>Bettivo</b></a> — Probabilistic Match forecasting on real-time data ingestion with backtesting for on policy RL model decisioning</li> -->
-<!-- <li><a href="https://github.com/asusoda/platform"><b>Platform</b></a> — infra for student orgs </li> -->
 <!-- <li><a href="https://github.com/ashworks1706/Kaelum"><b>Kaelum</b></a> — Test-time REINFORCE scaling for efficient reasoning with PRM and routing</li> -->
-<!-- <li><a href="https://pypi.org/project/godfather-cli/"><b>Godfather</b></a> — authorized gpu compute for asu students</li>
-<li><a href="https://github.com/asusoda/asu-cs-wiki">CS WiKI</b></a> — Headless CMS for managing course materials and WiKIs</li>
-<li><a href="https://github.com/ashworks1706/Decoy"><b>Decoy</b></a> — voice agents to reverse engineer</li> -->
-<!-- <li><a href="https://github.com/ashworks1706/Helion"><b>Helion</b></a> — yolo that tracks the sun using CV & dynamically controls motors to maximize energy efficiency</li> -->
+<!-- <li><a href="https://github.com/asusoda/asu-cs-wiki">CS WiKI</b></a> — Headless CMS for managing course materials and WiKIs</li> -->
+<!-- <li><a href="https://github.com/ashworks1706/Decoy"><b>Decoy</b></a> — voice agents to reverse engineer</li> --> 
 <!-- <li><a href="https://github.com/ashworks1706/Doc2Mcp"><b>Doc2MCP</b></a> — convert legacy API docs to structured MCP server</li> -->
-<!-- <li><a href="https://devpost.com/software/benchmind"><b>BenchMind</b></a> — agent evaluation tool, analyzes repos, creates custom tests, & visualizes reliability, & failure modes</li> -->
 </ul>
 <!-- <i>workshops/tutorials</i> -->
 <ul>
 <!-- <li><a href="https://github.com/ashworks1706/RLHF-from-scratch"><b>RLHF from Scratch</b></a> — rl stuff for llms</li>
-<li><a href="https://github.com/ashworks1706/LLM-from-scratch"><b>LLM from Scratch</b></a> — all my llm learning stuff</li>
-<li><a href="https://github.com/ashworks1706/agents-rag-from-scratch"><b>Agents from Scratch</b></a> — rag stuff</li> -->
 <!-- <li><a href="https://github.com/ashworks1706/world-models-from-scratch"><b>World Models from Scratch</b></a> — world models built from fundamentals (AIS Workshop)</li>
-<li><a href="https://github.com/ashworks1706/diffusion-from-scratch"><b>Diffusion from Scratch</b></a> — diffusion models built from fundamentals (AIS Workshop)</li> -->
+<li><a href="https://github.com/ashworks1706/inference-from-scratch"><b>Inference from Scratch</b></a> — inference engineering built from fundamentals (AIS Workshop)</li> -->
 </ul>
 
-<!-- <h4>Publications</h4>
-<ul>
-<li>Risk-Sensitive Forward Modeling for Delayed Teleoperation Using Cumulative Prospect Theory (inprog @ RISE)</li> -->
-<!-- <li>Resource-Constrained Latent Reasoning in Large Language Models (inprog @ ARC)</li> -->
 </ul> 
-
-<!-- <h3>Open-Source</h3>
-<ul>
-<li><b>Google Gemini SDK</b> — Added asynchronous functions & library optimizations</li>
-<li><b>Intel Retail AI Suite</b> — LiDAR-based theft-detection module in pilot tests.</li>
-</ul> -->
 
 <!-- <h3>Wins</h3>
 <ul>
