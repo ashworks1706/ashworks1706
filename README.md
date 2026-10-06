@@ -1,5 +1,7 @@
-CS at Arizona State. Working on model behavior and efficient inference.
-Currently at [Product Studio](https://product.studio/) on human to agent interaction, and researching model behavior at [ARC Lab](https://arc-asu.github.io/).
+CS @ Arizona State. <br/>
+Working on model behavior and efficient inference. <br/>
+Currently @ [Product Studio](https://product.studio/) on human to agent interaction, & <br/>
+researching model behavior @ [ARC Lab](https://arc-asu.github.io/).
 
 *[recent projects
 ](https://www.machinebrains.studio/)*
