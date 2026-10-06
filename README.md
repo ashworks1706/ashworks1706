@@ -1,13 +1,13 @@
 CS at Arizona State. Working on model behavior and efficient inference.
 Currently at [Product Studio](https://product.studio/) on human to agent interaction, and researching model behavior at [ARC Lab](https://arc-asu.github.io/).
 
+*[recent projects
+](https://www.machinebrains.studio/)*
 - [piramid](https://github.com/ashworks1706/piramid) — inference runtime for retrieval systems
 - [louped](https://github.com/ashworks1706/louped) — workbench for model experiments and evaluation
 - [godfather](https://github.com/theaisocietyasu/godfather) — GPU compute access for ASU students
 - [sparky](https://github.com/ashworks1706/SparkyAI) — assistive agent for university students
 - [platform](https://github.com/asusoda/platform) — contributed authentication and backend APIs for student orgs
-
-[website](https://ashworks.dev/) · [research & projects](https://www.machinebrains.studio/) · [email](mailto:ashworks1706@gmail.com)
 
 <ul>
 </ul>
