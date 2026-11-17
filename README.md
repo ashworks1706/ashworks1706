@@ -1,6 +1,6 @@
 CS @ Arizona State. <br/>
-Currently @ [Product Studio](https://product.studio/) on human to agent interaction, & <br/>
-researching model behavior @ [ARC Lab](https://arc-asu.github.io/).
+Currently @ [Product Studio](https://product.studio/) on human to agent interaction <!--, & <br/>
+researching model behavior @ [ARC Lab](https://arc-asu.github.io/). -->
 
 *[recent projects
 ](https://www.machinebrains.studio/)*
