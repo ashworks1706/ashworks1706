@@ -9,17 +9,12 @@ researching model behavior @ [ARC Lab](https://arc-asu.github.io/). -->
 </ul>
  <i>shipped</i> 
 <ul>
- <li><a href="https://github.com/ashworks1706/Kaelum"><b>Kaelum</b></a> — Test-time REINFORCE scaling for efficient reasoning with PRM and routing</li> 
  <li><a href="https://github.com/asusoda/asu-cs-wiki">CS WiKI</b></a> — Headless CMS for managing course materials and WiKIs</li> 
  <li><a href="https://github.com/ashworks1706/Decoy"><b>Decoy</b></a> — voice agents to reverse engineer</li>  
  <li><a href="https://github.com/ashworks1706/Doc2Mcp"><b>Doc2MCP</b></a> — convert legacy API docs to structured MCP server</li> 
 </ul>
  <i>workshops/tutorials</i> 
 <ul>
-<li><a href="https://github.com/ashworks1706/RLHF-from-scratch"><b>RLHF from Scratch</b></a> — rl stuff for llms</li>
-<li><a href="https://github.com/ashworks1706/world-models-from-scratch"><b>World Models from Scratch</b></a> — world models built from fundamentals (AIS Workshop)</li>
-<li><a href="https://github.com/ashworks1706/inference-from-scratch"><b>Inference from Scratch</b></a> — inference engineering built from fundamentals (AIS Workshop)</li> 
-</ul>
 
 </ul> 
 
